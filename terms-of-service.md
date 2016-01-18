@@ -91,7 +91,7 @@ If you choose to provide technical, business or other feedback to Desmos concern
 <a name="termination"></a>
 ## 8. Termination and Suspension
 
-If you choose to provide technical, business or other feedback to Desmos concerning the Desmos Services or any Desmos products or services (collectively, “**Feedback**”), Desmos will be free to use such Feedback without restriction. You understand and agree that the incorporation by Desmos of Feedback into any of its products or services does not grant you any proprietary rights therein.
+Without limiting other remedies, Desmos may terminate or suspend your Desmos Services membership or suspend your access to all or part of the Desmos Services without notice if Desmos believes that you have violated these Terms or have engaged in conduct that violates applicable law or is otherwise harmful to the interests of Desmos, any other Desmos Services user, or any third party. You may discontinue your use of the Desmos Services at any time.
 
 <a name="fees"></a>
 ## 9. Fees
