@@ -48,7 +48,7 @@ f. *Merger or Sale*. If we merge, sell, or otherwise transfer our business, we w
 <a name="choices"></a>
 ## 4. Your Choices
 
-You may decline to submit Personally Identifiable Information through the Desmos Services, in which case Desmos or your Educator may not be able to provide certain Desmos Services to you. You may update or correct your Personal Data and email preferences at any time by visiting your “Edit Account” link. With respect to User Information provided by your Educator, please reach out to your Educator to request removal or updates of such information.
+You may decline to submit Personally Identifiable Information through the Desmos Services, in which case Desmos or your Educator may not be able to provide certain Desmos Services to you. You may update or correct your username or password at any time by visiting your “Edit Account” link. You may update the email address associated with your account, or delete your account altogether, by emailing a request to [support@desmos.com](mailto:support@desmos.com). With respect to User Information provided by your Educator, please reach out to your Educator to request removal or updates of such information.
 
 <a name="data-security"></a>
 ## 5. Data Security
@@ -75,7 +75,7 @@ Desmos, Inc.
 ATTN: Privacy Agent
 1488 Howard St.
 San Francisco, CA 94103
-Email: info@desmos.com
+Email: support@desmos.com
 </pre>
 
 <a name="changes-and-updates"></a>
@@ -83,7 +83,7 @@ Email: info@desmos.com
 
 a. *Updates*. This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.  You can see the history of the changes to our [Privacy Policy](https://github.com/desmosinc/policies).
 
-b. *Last Modified*. This Privacy Policy was last modified October 25, 2015.
+b. *Last Modified*. This Privacy Policy was last modified February 17, 2016.
 
 
 
