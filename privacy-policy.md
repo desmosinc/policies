@@ -1,6 +1,15 @@
 # Privacy Policy
 
-Desmos, Inc. (“**we**” or “**Desmos**”) knows that you care about the protection of your personal information. We have created this Privacy Policy to describe how we collect, use and share such information. This Privacy Policy applies to information collected by our services (“**Desmos Services**”) including the services which are offered through (i) our mobile applications, including our (a) Desmos Graphing Calculator application, which currently is available as an Android app and iOS app and (b) Desmos Test Mode application for iPads, (ii) our website located at desmos.com, (iii) third party providers of educational services (“**Educators**”) that use our services and direct their students (e.g., you and your fellow students (“**Classmates**”)) to the Desmos Services and (iv) third party partners (“**API Partners**”) that connect to or embed the Desmos Services via an application programming interface.
+Desmos, Inc. (“**we**” or “**Desmos**”) is committed to protecting your privacy.
+This Privacy Policy describes our collection and use of personal information collected from visitors to our website and our mobile application(s) (collectively, our “**Service**”), including the Service offered at www.desmos.com, teacher.desmos.com, student.desmos.com and any other website, app, or online service which links to this Privacy Policy.
+"**You**" or “**your**” means a visitor or a user (whether logged in or not) of our Service.
+
+**A note about Student Data:**
+Our Desmos Service may be used by schools, school districts, or teachers (collectively referred to as “**Schools**”) in a classroom setting.
+When Desmos contracts with a School to provide the Service through student.desmos.com to students in a classroom (“**Students**”), we may have access to Student Data (defined below).
+This Privacy Policy does not govern our access to Student Data.
+We consider Student Data to be highly confidential and our use of Student Data is governed by our agreements with the schools.
+Please see our [Student Data Privacy Statement](/studentdata) for information about how we collect and use Student Data gathered during the provision of the Desmos Service to Schools.
 
 This Privacy Policy is incorporated into and is subject to our [Terms of Service](/terms), which governs your use of the Desmos Services.
 
@@ -16,57 +25,101 @@ Click on the links below to jump to subsection of this Privacy Policy.
 8. [Contact Us](#contact-us)
 9. [Changes and Updates](#changes-and-updates)
 
-<a name="information-collected"></a>
-## 1. Information Collected
+<h2 id="information-collected">1. Information Collected</h2>
 
-a. *Personal Data*. When using the Desmos Services, you may provide to Desmos certain information by which someone could personally identify you such as your name, email or unique username (“**Personally Identifiable Information**”), as well as information about yourself such as your employment or level of schooling by which someone could not personally identify you (“**Non-Personally Identifiable Information**”). We will refer to Personally Identifiable Information and Non-Personally Identifiable Information collectively as “**Personal Data**”. If you authorize us, we may access the Personal Data that you have provided third party Internet sites and services (for example, Google) through the use of an application program interface.  No Personal Data is collected from you via our API Partners, other than to the limited extent Usage Data includes any incidental Personal Data.
+a. *Personal Data*.
+You can use the Service without registering for an account or providing any other personal data.
+If you create an account on the Desmos Services, or communicate with Desmos, you may provide to Desmos certain information by which someone could personally identify you, such as your name, email or unique username (“**Personally Identifiable Information**”), as well as information about yourself such as your employment or level of schooling by which someone could not personally identify you (“**Demographic Information**”).
+When we link Demographic Information to your Personally Identifiable Information, we treat all of it as Personally Identifiable.
+We also collect information when you save or post content to the Service (“**User Content**”), authorize us to access your device camera and photo roll, and communicate with us.
+We refer to all of this data collectively as “Personal Data”.
+We may also collect Personal Data about you from a third party Internet site or service.
+For example, if you login to your Desmos account through Google or another authentication tool, or if you interact with Desmos on social media, we may collect the Personal Data you authorize that third party service to share.
 
-b. *Usage Data*. We automatically collect certain technical usage information when you use the Desmos Services (“**Usage Data**”). Usage Data includes the information that your web browser or mobile application automatically sends to our servers whenever you visit. The Usage Data collected in our logs may include information such as your web request, Internet Protocol address, operating system, browser type, browser language, referring / exit pages and URLs, platform type, click history, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more browser cookies and device identifiers that may uniquely identify your browser or device. You can set your web browser and to refuse all cookies, and your mobile device to not provide your mobile device identifier. However, some features of the Desmos Services may not function properly if cookies or mobile device identifiers are not provided. In addition, the Desmos Services may use third party analytics and bug tracking software (including without limitation, Google Analytics and Bugsnag (“**Third Party Service Providers**”)) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services. We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
+b. *Usage Data*.
+We automatically collect certain technical usage information when you use the Desmos Services (“**Usage Data**”).
+Usage Data includes the information that your web browser or mobile application automatically sends to our servers whenever you visit.
+The Usage Data collected in our logs may include information such as your web request, Internet Protocol address, operating system, browser type, browser language, referring / exit pages and URLs, platform type, click history, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and whether you opened an email.
+Typically, this information is collected through log files, web beacons, browser cookies, or other device identifiers that may uniquely identify your browser or device.
+You may be able to set your web browser to refuse all cookies, and your mobile device to not provide your mobile device identifier.
+You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers.
+For more information on cookies, visit [www.allaboutcookies.org](//www.allaboutcookies.org).
+Remember, some features of the Desmos Services may not function properly if cookies or mobile device identifiers are not enabled.
+In addition, the Desmos Services may use third party analytics and bug tracking software (including, without limitation, Google Analytics and Bugsnag) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services.
+We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
+Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
+We do not permit third party advertising networks or other third parties to collect information about your browsing behavior from our website for advertising purposes.
 
-<a name="use-of-information"></a>
-## 2. Use of Your Information
+<h2 id="use-of-information">2. Use of Your Information</h2>
 
-a. *Use*. We use your Personal Data and Usage Data (together, “**User Information**”) to operate, maintain, and provide to you the features and functionality of the Desmos Services and for related business purposes. We may use your User Information to (a) improve the quality and design of the Desmos Services and to create new features and services by storing, tracking, and analyzing user preferences; (b) remember information so that you will not have to re-enter it during your visit or the next time you use the Desmos Services; (c) provide custom, personalized content and information, (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) for monitoring academic progress on behalf of your Educator.
+a. *Use*.
+We use your Personal Data and Usage Data (together, “**User Information**”) to operate, maintain, and provide to you the features and functionality of the Desmos Services and for related business purposes.
+We may use your User Information to (a) improve the quality and design of the Desmos Services and to create new features and services by storing, tracking, and analyzing user preferences; (b) remember information so that you will not have to re-enter it during your visit or the next time you use the Desmos Services; (c) provide custom, personalized content and information; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) diagnose and fix technology problems and otherwise plan for and enhance our Service.
+To the extent that Desmos may provide personalized content and information, including advertising, to our users, including teachers, school administration officials, and other users associated with Schools, Desmos shall never use Student Data to engage in targeted advertising, nor shall Desmos direct advertising to student users on student.desmos.com.
 
-b. *Marketing Messages*. We will not use your email address or other Personally Identifiable Information to send you marketing messages unless you provide your consent, as part of a specific program or feature for which you will have the ability to opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of important Desmos Services changes or for customer service purposes).
+b. *Communications Preferences*.
+We will not use your email address or other Personally Identifiable Information to send you marketing messages unless you provide your consent, or as part of a specific program or feature for which you will have the ability to opt-out.
+You can always opt-out of receiving promotional email from us by clicking on the “unsubscribe” feature at the bottom of each email or by adjusting your email subscription preferences in your settings.
+We may, however, use your email address without further consent for non-marketing or administrative purposes, such as notifying you of important Desmos Services changes or for customer service purposes.
 
-<a name="disclosure-of-info"></a>
-## 3. Disclosure of Your Information
+<h2 id="disclosure-of-info">3. Disclosure of Your Information</h2>
 
-a. *Your Publication*. You may, by using applicable sections of the Desmos Services (including sections which enable you to create graphs, perform lessons, provide comments, upload video and pictures), share your User Information, including Personally Identifiable Information and other content that you create or post to others accessing the Desmos Services. If you are accessing the Desmos Services via your Educator, then your Educator and Classmates will have access to all such information and content, unless otherwise indicated.
+a. *Your Publication*.
+You may, by using applicable sections of the Desmos Services (including sections which enable you to create graphs, perform lessons, provide comments, upload video and pictures), share your User Information, including Personally Identifiable Information and other content that you create or post to others accessing the Desmos Services.
+Please see the [Student Data Privacy Statement](/studentdata) to learn how Student Data may be shared.
 
-b. *Partners*. At your direction, we may provide your User Information to our partners (“Partners”) that are integrated with the Desmos Network. For example: (i) you may provide us feedback, suggestions and bug reports using the customer service software of our Partner, Zendesk; and (ii) you are or will be able to login to the Desmos Services using Google login and similar authentication tools. Any such User Information is provided directly to the Partner and is subject to that Partner's policies, if any, governing privacy and security. We are not responsible for the content or privacy and security practices and policies of the Partners. We encourage you to learn about our Partners' privacy and security policies before providing them with your User Information or directing us to provide them with your User Information.
+b. *Service Providers*.
+We share User Information with our trusted third party service providers and other individuals who perform services on our behalf, for example, providing customer service support, hosting services, analytics and other services we utilize to help us provide our Service or conduct our business.
+These service providers access and use User Information only to provide services to Desmos under reasonable confidentiality terms.
 
-c. *Functionality*. We share Non-Personally Identifiable Information and Usage Data (such as anonymous user usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with the Third Party Service Providers to assist us in understanding the usage patterns for certain content, services, and/or functionality on the Desmos Services.
+c. *Partners*.
+At your direction, we may provide your User Information to our partners (“**Partners**”) that are integrated with the Desmos Network.
+For example, we may share certain User Information when you login to the Desmos Services using Google login and similar authentication tools.
+We may also share User Information when we provide the Service with a Partner, such as when we work with a school or educational institution to provide the Service to students.
+Please see our [Student Data Privacy Statement](/studentdata) to learn more about how student data may be shared.
+User Information that is shared with a third party Partner may be subject to that Partner's privacy and data security policies.
+We are not responsible for the content or privacy and security practices and policies of the Partners.
+We encourage you to learn about our Partners' privacy and security policies before providing them with your User Information or directing us to provide them with your User Information.
 
-d. *Other Required Sharing*. We may share User Information: (i) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process or search warrant, or (ii) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service, exercise our legal rights, take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Desmos Services, and to protect the rights, property, or personal safety of Desmos, Educations Providers, our users or third parties.
+d. *Other Required Sharing*.
+We may share User Information: (i) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process or search warrant, or (ii) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service, to exercise our legal rights, to take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Desmos Services, and to protect the rights, property, or personal safety of Desmos, Education Providers, our users or third parties.
 
-e. *Educators*. We may share your User Information with your Educator. In addition, when instructed and authorized to do so on behalf of your Educator, we may facilitate the sharing of Student Data with third parties. Some elements of the Desmos Services enable Educators to interact with their students. If you are a student or parent of a student, please contact your Educator if you have questions about the Educator’s use of technology providers like Desmos.
+e. *School Collaboration*.
+For Schools utilizing our School Collaboration functionality, School users can share information, resources, and materials through the School Collaboration Features.
+Depending on School’s use of various features of the Service, a School user may be able to share information with other authorized School users and/or invite other authorized School users to access, review, and edit School material.
+Sharing functionality will be determined by the School settings.
 
-f. *Merger or Sale*. If we merge, sell, or otherwise transfer our business, we will not transfer your Personally Identifiable Information unless the new owner intends to maintain and provide the applicable Desmos Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own.
+f. *Merger or Sale*.
+If we merge, sell, or otherwise transfer all or a portion of our business, we will not transfer your Personally Identifiable Information without first giving you the ability to opt-out of the transfer, unless the new owner intends to maintain and provide the applicable Desmos Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own.
+We may also transfer personal information &ndash; under the same conditions &ndash; in the course of mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of our business.
 
-<a name="choices"></a>
-## 4. Your Choices
+<h2 id="choices">4. Your Choices</h2>
 
-You may decline to submit Personally Identifiable Information through the Desmos Services, in which case Desmos or your Educator may not be able to provide certain Desmos Services to you. You may update or correct your username or password at any time by visiting your “Edit Account” link. You may update the email address associated with your account, or delete your account altogether, by emailing a request to [support@desmos.com](mailto:support@desmos.com). With respect to User Information provided by your Educator, please reach out to your Educator to request removal or updates of such information.
+You may decline to submit Personally Identifiable Information through the Desmos Services, in which case Desmos or your School may not be able to provide certain Desmos Services to you.
+You may update or correct your name, email address, or password at any time by visiting your “Account Settings” link.
+You may also delete your account altogether there. With respect to User Information provided by your School, please reach out to your School to request removal or updates of such information.
+If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [support@desmos.com](mailto:support@desmos.com).
+We may not be able to modify or delete your information in all circumstances.
 
-<a name="data-security"></a>
-## 5. Data Security
+<h2 id="data-security">5. Data Security</h2>
 
-Desmos uses physical, managerial, and technical safeguards to preserve the integrity and security of your User Information. Such safeguards include requesting a unique password to verify your identity before granting access to your account. We cannot, however, ensure or warrant the security of User Information you transmit to or store on the Desmos Services and you do so at your own risk. You are responsible for maintaining the security of your unique password and account information at all times.
+We care about the security of your information and employ physical, administrative, and technological safeguards designed to preserve the integrity and security of all information collected through our Service.
+Access to information is limited (through user/password credentials and, in some cases, two factor authentication) to those employees who require it to perform their job functions.
+We use industry standard SSL (secure socket layer technology) encryption to transfer personal information.
+Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to buildings and files.
+You can help protect against unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-<a name="childrens-privacy"></a>
-## 6. Children’s Privacy
+<h2 id="childrens-privacy">6. Children’s Privacy</h2>
 
-Desmos does not knowingly collect or maintain Personal Data on or through the Desmos Services from persons under 13 years of age, unless either the applicable Educator or Desmos itself has received parental consent. If you believe that we have collected Personal Data from a child under 13 years of age without parental consent, then please alert us at info@desmos.com and we will promptly delete such child's Personal Data from our systems.
+Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for Desmos to collect information from such student.
+If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
 
-<a name="international"></a>
-## 7. For Our International Users
+<h2 id="international">7. For Our International Users</h2>
 
-The Desmos Services are hosted in the United States and are intended for and directed to users in the United States. If you are accessing the Desmos Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that your continued use of the Desmos Services will be governed by United States law, this Privacy Policy, and our Terms of Service. Your User Information may be transferred to, processed in, and held in countries other than the one in which you reside including countries such as the United States which the European Union has deemed do not provide “adequate” protection for personal information.
+By using this Service, you consent to the transfer of your personal information to the United States and to the processing of your personal information in the United States in accordance with this Privacy Policy.
+You understand that your personal information will be subject to the laws of the United States, which may be different from those of your country of residence.
 
-<a name="contact-us"></a>
-## 8. Contact Us
+<h2 id="contact-us">8. Contact Us</h2>
 
 Please feel free to contact us with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices as follows:
 
@@ -78,12 +131,14 @@ San Francisco, CA 94103
 Email: support@desmos.com
 </pre>
 
-<a name="changes-and-updates"></a>
-## 9. Changes and Updates
+<h2 id="changes-and-updates">9. Changes and Updates</h2>
 
-a. *Updates*. This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.  You can see the history of the changes to our [Privacy Policy](https://github.com/desmosinc/policies).
+a. *Updates*.
+This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below.
+Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.
+You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
 
-b. *Last Modified*. This Privacy Policy was last modified February 17, 2016.
+b. *Last Modified*. This Privacy Policy was last modified April 25, 2017.
 
 
 
