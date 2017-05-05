@@ -18,12 +18,14 @@ We are honored that our School customers choose Desmos as a trusted educational 
 When we have access to the personal information of students, we commit to the following data privacy principles:
 
 * Desmos collects, stores, processes, and shares Student Data only for the purposes of providing our Service, or as authorized by a school or a parent.
-* Desmos does not sell, use, or share Student Data or content for marketing or advertising purposes, except with explicit school or parental consent.
-* Desmos does not use Student Data for targeted advertising purposes.
+* Desmos does not use or share Student Data or content for marketing or advertising purposes, except with explicit school or parental consent.
+* Desmos does not sell Student Data.
+* Desmos does not use or disclose Student Data for targeted advertising purposes.
 * Desmos will maintain a comprehensive data security program designed to protect the types of Student Data maintained by Desmos.
+* Desmos will not knowingly retain Student Data beyond the time period required to support the school’s purpose, unless authorized by the parent/student.
 * Desmos will delete or de-identify Student Data at the direction or request of the school.
 * Desmos will clearly and transparently disclose our data policies and practices.
-* Desmos will not make any material changes to our Privacy Policy or Terms of Service that relate to the collection or use of Student Data without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
+* Desmos will not make any material changes to our [Privacy Policy](/privacy) or [Terms of Service](/terms) that relate to the collection or use of Student Data without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
 If you have any questions, please contact us at [support@desmos.com](mailto:support@desmos.com)
 

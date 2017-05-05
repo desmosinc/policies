@@ -59,7 +59,7 @@ As between the parties, the School or the Student owns and controls the Student 
 
 *Personal Information and Student Data Consents and Authority*.
 If you are School User, you represent and warrant that you have provided appropriate disclosures to your School and to parents regarding your sharing such Personal Information with Desmos.
-Both Parties agree to uphold their obligations under the Family Educational Rights and Privacy Act (“FERPA”), the Protection of Pupil Rights Amendment ("PPRA"), and the Children’s Online Privacy and Protection Act (“COPPA”) and applicable State laws.
+Both Parties agree to uphold their obligations under the Family Educational Rights and Privacy Act (“FERPA”), the Protection of Pupil Rights Amendment ("PPRA"), and the Children’s Online Privacy and Protection Act (“COPPA”) and applicable State laws relating to student data privacy.
 Desmos relies on each School to obtain and provide appropriate consent and disclosures, if necessary, for Desmos to collect any Student Data, including the collection of Student Data directly from students under 13, as permitted under COPPA.
 We recommend that you provide a copy of the Desmos [Student Data Privacy Statement](/studentdata) to Parents.
 You agree to comply with these Terms and all laws and regulations governing the protection of personal information, including children’s information, and the sharing of student education records.
@@ -82,6 +82,7 @@ We and our employees, affiliates, service providers, or agents involved in the h
 *Student Data Retention and Deletion Requests*.
 Schools may request that we delete Student Data in our possession at any time by providing such a request in writing, except that Desmos shall not be required to delete content a Student shared to public areas of the Service.
 We shall respond to the deletion request as soon as possible, but in most instances within 45 days, other than for data stored on backup tapes which shall be deleted in the ordinary course of business.
+For inactive accounts, we delete or de-identify Student Data in our possession after a period of dormancy or at the request of a Parent.
 A Parent seeking to modify, correct, or delete personal information in a Student Account that is connected to an active School account will be instructed to contact the School to discuss data deletion or modification.
 We are not required to delete data that has been derived from Student Data so long as it has been anonymized such that it does not reasonably identify an individual.
 Similarly, we are not required to delete information which a Student or parent has saved or transferred to a personal account.

@@ -106,7 +106,7 @@ We may not be able to modify or delete your information in all circumstances.
 We care about the security of your information and employ physical, administrative, and technological safeguards designed to preserve the integrity and security of all information collected through our Service.
 Access to information is limited (through user/password credentials and, in some cases, two factor authentication) to those employees who require it to perform their job functions.
 We use industry standard SSL (secure socket layer technology) encryption to transfer personal information.
-Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to buildings and files.
+Other security safeguards include but are not limited to data encryption, firewalls, physical access controls to buildings and files, and employee training.
 You can help protect against unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
 <h2 id="childrens-privacy">6. Children’s Privacy</h2>
