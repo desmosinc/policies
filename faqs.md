@@ -87,7 +87,7 @@ In addition, we will prominently post a notice on our websites if we make any ma
 We will not necessarily notify you for small changes (e.g. modifications to the list of Third Party Services).
 However, you can subscribe to notifications from the github repository if you’re interested in being updated on every change. ([Instructions](//help.github.com/articles/watching-repositories/).)
 
-These FAQs were last updated April 25, 2017.
+These FAQs were last updated May 9, 2017.
 
 ## Q. What if I have other questions?
 
