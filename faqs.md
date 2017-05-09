@@ -50,16 +50,16 @@ A. The Family Education Rights and Privacy Act (FERPA), is a federal law that pr
 Unlike COPPA, which applies to all online operators, FERPA regulates an educational institution’s use of student data.
 Here is how our product policies can help those institutions meet their obligations under FERPA.
 
-We do not intend for any students to use **teacher.desmos.com**, so FERPA isn't a consideration there.
+We expect teachers, not students, to use **teacher.desmos.com** for creating and running activities, so FERPA isn't a consideration for work done on that website.
 
 Our **Desmos Tools** are intended for individual usage.
 We don’t know when any of these tools is used at the direction of a teacher as part of an assignment, so we can’t be helpful with FERPA compliance.
-For this reason, we strongly recommend that teachers and schools only use teacher.desmos.com and student.desmos.com for academic assignments.
+For this reason, we strongly recommend that teachers and schools only use teacher.desmos.com and student.desmos.com for collecting academic assignments.
 
 We assume that all work in **student.desmos.com** has been assigned by a teacher or school for academic purposes.
 We don’t own any personal information collected through student.desmos.com &ndash; that work is owned by the teacher and school. Parents and students have rights under FERPA to access that work.
-Note that if an account is deleted by a student, work done on student.desmos.com will not necessarily be deleted!
-Only a teacher or school can ask us to delete a student's work.
+Note that only a teacher or school can ask Desmos to delete work done on student.desmos.com.
+Note further that if an account on teacher.desmos.com is deleted, student work associated with any activities that the teacher ran will be deleted as a result, even for students who still have an account.
 Please see our [Student Data Privacy Statement](//www.desmos.com/studentdata) for more details.
 
 
@@ -89,7 +89,7 @@ However, you can subscribe to notifications from the github repository if you’
 
 These FAQs were last updated April 25, 2017.
 
-## What if I have other questions?
+## Q. What if I have other questions?
 
 A. If you have any questions about any of our policies, just send us an e-mail at [support@desmos.com](mailto:support@desmos.com).
 
