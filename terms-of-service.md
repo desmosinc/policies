@@ -180,6 +180,8 @@ You are responsible for maintaining the confidentiality of your Desmos Services 
 
 Desmos may integrate with or provide links to certain third party Internet sites and services (collectively, such third parties, “**Linked Partners**”). The Linked Partner services made available through the Desmos Services or the integration of the such sites and services with the Desmos Services are for your convenience only and do not signify the endorsement by Desmos of such Partner sites or services.
 
+A list of Third Party Services can be found [here](https://github.com/desmosinc/policies).
+
 <h2 id="disclaimer">14. Disclaimer and Limitations of Liability</h2>
 
 **a. You agree that use of the Desmos services is at your sole risk. The Desmos services are provided on an “as is” and “as available” basis. Desmos expressly disclaims all warranties of any kind, whether express or implied, with respect to the Desmos services and all services provided by any of our partner (whether api partners, linked partners, or otherwise), including, but not limited to, the implied warranties of merchantability, fitness for a particular use or purpose, and non-infringement. You acknowledge that access to data and materials (including, but not limited to, your or others’ user submissions and generated materials) available through the Desmos services is not guaranteed and that Desmos will not be responsible to you for any loss of data or materials caused by the Desmos services or their unavailability. You understand and agree that any data, materials, services and/or information downloaded or otherwise obtained through the use of the Desmos services is done at your own discretion and risk and that you will be solely responsible for any damage arising therefrom.**
@@ -213,5 +215,5 @@ The failure of Desmos to exercise or enforce any right or provision of these Ter
 
 a. *Modifications*. These Terms may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such update constitutes your agreement to the revised Terms.  You can see the history of the changes to our Terms [here](https://github.com/desmosinc/policies).  If you object to any such changes, your sole recourse will be to cease using the Desmos Services. Continued use of the Desmos Services following notice of any such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Desmos reserves the right to modify or discontinue the Desmos Services with or without notice to you.
 
-b. *Date Last Modified*. These Terms were last modified on May 9, 2017.
+b. *Date Last Modified*. These Terms were last modified on February 20th, 2018.
 
