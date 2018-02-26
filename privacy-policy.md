@@ -50,6 +50,10 @@ We may combine Usage Data with Personal Data in a manner that enables us to trac
 Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
 We do not permit third party advertising networks or other third parties to collect information about your browsing behavior from our website for advertising purposes.
 
+c. *Sensitive Data*
+
+We do not collect sensitive personal data, including financial data or health records.
+
 <h2 id="use-of-information">2. Use of Your Information</h2>
 
 a. *Use*.
@@ -71,6 +75,10 @@ Please see the [Student Data Privacy Statement](/studentdata) to learn how Stude
 b. *Service Providers*.
 We share User Information with our trusted third party service providers and other individuals who perform services on our behalf, for example, providing customer service support, hosting services, analytics and other services we utilize to help us provide our Service or conduct our business.
 These service providers access and use User Information only to provide services to Desmos under reasonable confidentiality terms.
+
+We share Personally Identifiable Information with third parties only if such providers have a need to access such information for the purpose of carrying out their work for us and do so under strict confidentiality and data security terms.
+
+A list of Third Party Services can be found [here](https://github.com/desmosinc/policies/blob/master/third-party-services.md).
 
 c. *Partners*.
 At your direction, we may provide your User Information to our partners (“**Partners**”) that are integrated with the Desmos Network.
@@ -141,7 +149,7 @@ This Privacy Policy may be revised periodically and this will be reflected in th
 Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.
 You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
 
-b. *Last Modified*. This Privacy Policy was last modified July 19, 2017.
+b. *Last Modified*. This Privacy Policy was last modified February 26th, 2018.
 
 
 
