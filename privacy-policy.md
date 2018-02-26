@@ -78,7 +78,7 @@ These service providers access and use User Information only to provide services
 
 We share Personally Identifiable Information with third parties only if such providers have a need to access such information for the purpose of carrying out their work for us and do so under strict confidentiality and data security terms.
 
-A list of Third Party Services can be found [here](https://github.com/desmosinc/policies).
+A list of Third Party Services can be found [here](https://github.com/desmosinc/policies/blob/master/third-party-services.md).
 
 c. *Partners*.
 At your direction, we may provide your User Information to our partners (“**Partners**”) that are integrated with the Desmos Network.

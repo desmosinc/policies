@@ -12,7 +12,7 @@ Here is the list of 3rd party services that we might share your information with
 - **[Looker](https://looker.com/)**: We use looker for granular usage statistics and "Business Intellegence."
 - **[Zendesk](https://zendesk.com)**: Zendesk hosts [https://support.desmos.com](support.desmos.com) and powers some of our support messaging and documentation.
 - **[Heroku](http://heroku.com/)**: Heroku hosts some of our databases.
-- **[MongoDB](https://www.mongodb.com/)**: MongoDB hosts some of our databases.
+- **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)**: MongoDB hosts some of our databases.
 - **[Firebase](https://firebase.google.com/)**: We use firebase for some of the realtime streaming on teacher.desmos.com and student.desmos.com. We do not use them to store data.
 - **[Transloadit](https://transloadit.com/)**: Transloadit powers video conversion on teacher.desmos.com.
 

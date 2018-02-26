@@ -69,7 +69,7 @@ We may share Student Data in the following ways:
 * We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our Terms of Use, or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our visitors.
 * In the event of a change of control: If we sell, divest or transfer the business or a portion of our business, we will not transfer Student personal information without first giving you the ability to opt-out of the transfer by deleting your account, unless the new owner intends to maintain and provide the Service as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own. We may also transfer personal information – under the same conditions – in the course of mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of our business
 
-A list of Third Party Services can be found [here](https://github.com/desmosinc/policies).
+A list of Third Party Services can be found [here](https://github.com/desmosinc/policies/blob/master/third-party-services.md).
 
 ## How do we use anonymized data?
 
