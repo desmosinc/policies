@@ -16,4 +16,4 @@ Here is the list of 3rd party services that we might share your information with
 - **[Firebase](https://firebase.google.com/)**: We use firebase for some of the realtime streaming on teacher.desmos.com and student.desmos.com. We do not use them to store data.
 - **[Transloadit](https://transloadit.com/)**: Transloadit powers video conversion on teacher.desmos.com.
 
-This document was last modified on February 20th, 2018.
+This document was last modified on February 26th, 2018.

@@ -97,4 +97,4 @@ We will note the effective date of the policy at the bottom of this page, and yo
 We will use our best efforts to provide each School at least 30 days-notice of a Privacy Policy change that may involve collecting, using, storing, or sharing Student Data in a materially different manner than was disclosed in our previous Privacy Policy, so that the School has sufficient time to evaluate the change in practice.
 If you do not choose to accept the changes, you may opt-out by deleting your account before the changes take effect.
 
-This document was last modified on February 20th, 2018.
+This document was last modified on February 26th, 2018.
