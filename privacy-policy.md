@@ -43,7 +43,7 @@ The Usage Data collected in our logs may include information such as your web re
 Typically, this information is collected through log files, web beacons, browser cookies, or other device identifiers that may uniquely identify your browser or device.
 You may be able to set your web browser to refuse all cookies, and your mobile device to not provide your mobile device identifier.
 You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers.
-For more information on cookies, visit [www.allaboutcookies.org](//www.allaboutcookies.org).
+For more information on cookies, visit [www.allaboutcookies.org](https://www.allaboutcookies.org).
 Remember, some features of the Desmos Services may not function properly if cookies or mobile device identifiers are not enabled.
 In addition, the Desmos Services may use third party analytics and bug tracking software (including, without limitation, Google Analytics and Bugsnag) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services.
 We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
@@ -115,7 +115,7 @@ You can help protect against unauthorized access to your account and personal in
 <h2 id="childrens-privacy">6. Children’s Privacy</h2>
 
 Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for Desmos to collect information from such student.
-If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
+If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](mailto:support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
 
 <h2 id="international">7. For Our International Users</h2>
 
@@ -141,7 +141,7 @@ This Privacy Policy may be revised periodically and this will be reflected in th
 Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.
 You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
 
-b. *Last Modified*. This Privacy Policy was last modified July 19, 2017.
+b. *Last Modified*. This Privacy Policy was last modified June 20, 2020.
 
 
 
