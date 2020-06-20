@@ -141,7 +141,7 @@ This Privacy Policy may be revised periodically and this will be reflected in th
 Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.
 You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
 
-b. *Last Modified*. This Privacy Policy was last modified July 19, 2017.
+b. *Last Modified*. This Privacy Policy was last modified June 20, 2020.
 
 
 
