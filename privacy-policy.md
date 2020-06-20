@@ -43,7 +43,7 @@ The Usage Data collected in our logs may include information such as your web re
 Typically, this information is collected through log files, web beacons, browser cookies, or other device identifiers that may uniquely identify your browser or device.
 You may be able to set your web browser to refuse all cookies, and your mobile device to not provide your mobile device identifier.
 You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers.
-For more information on cookies, visit [www.allaboutcookies.org](//www.allaboutcookies.org).
+For more information on cookies, visit [www.allaboutcookies.org](https://www.allaboutcookies.org).
 Remember, some features of the Desmos Services may not function properly if cookies or mobile device identifiers are not enabled.
 In addition, the Desmos Services may use third party analytics and bug tracking software (including, without limitation, Google Analytics and Bugsnag) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services.
 We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
