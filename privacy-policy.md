@@ -115,7 +115,7 @@ You can help protect against unauthorized access to your account and personal in
 <h2 id="childrens-privacy">6. Children’s Privacy</h2>
 
 Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for Desmos to collect information from such student.
-If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
+If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](mailto:support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
 
 <h2 id="international">7. For Our International Users</h2>
 
