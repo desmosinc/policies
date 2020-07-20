@@ -35,7 +35,7 @@ A. Yes.
 The Children’s Online Privacy Protection Act (COPPA) is a federal law designed to protect the privacy of children under 13 years of age.
 
 First, neither our services at **teacher.desmos.com** nor our **Desmos Tools** are directed at children under 13. We do not intend for children under 13 to use those services.
-If you believe that we have accidentally collected personal information from a child under 13 without the consent of a parent, guardian, or school, let us know at [support@desmos.com](mailto:support@desmos.com) and we will remove that information as soon as possible.
+If you believe that we have accidentally collected personal information from a child under 13 without the consent of a parent, guardian, or school, let us know at [privacy@desmos.com](mailto:privacy@desmos.com) and we will remove that information as soon as possible.
 
 Our service at **student.desmos.com** is intended for use by students, including students under the age of 13.
 Usage requires a classcode provided by a teacher.
@@ -73,7 +73,7 @@ We maintain a list of those services here:
 [https://github.com/desmosinc/policies/blob/master/third-party-services.md](https://github.com/desmosinc/policies/blob/master/third-party-services.md)
 
 We try our hardest to keep this list up to date, but we may add or subtract service providers at any time.
-Please contact us at [support@desmos.com](mailto:support@desmos.com) to confirm our most up to date list of service providers at any given time.
+Please contact us at [privacy@desmos.com](mailto:privacy@desmos.com) to confirm our most up to date list of service providers at any given time.
 
 
 ## Q. How will I know if you update your policies?
@@ -91,7 +91,7 @@ These FAQs were last updated June 20, 2020.
 
 ## Q. What if I have other questions?
 
-A. If you have any questions about any of our policies, just send us an e-mail at [support@desmos.com](mailto:support@desmos.com).
+A. If you have any questions about any of our policies, just send us an e-mail at [privacy@desmos.com](mailto:privacy@desmos.com).
 
 
 
