@@ -62,6 +62,10 @@ Note that only a teacher or school can ask Desmos to delete work done on student
 Note further that if an account on teacher.desmos.com is deleted, student work associated with any activities that the teacher ran will be deleted as a result, even for students who still have an account.
 Please see our [Student Data Privacy Statement](https://www.desmos.com/studentdata) for more details.
 
+## Q. Does Desmos have a Student Data Privacy Agreement with my school?
+
+A: We have data privacy agreements with many school districts across several states and are happy to work with your school to get an agreement in place. Please email us at [privacy@desmos.com](mailto:privacy@desmos.com) for more information.
+
 
 ## Q. How do you protect the privacy of student data you share with third parties?
 
