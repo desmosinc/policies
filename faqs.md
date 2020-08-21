@@ -66,9 +66,9 @@ Please see our [Student Data Privacy Statement](https://www.desmos.com/studentda
 
 A: We have data privacy agreements with many school districts across several states and are happy to work with your school to get an agreement in place. Please email us at [privacy@desmos.com](mailto:privacy@desmos.com) for more information.
 
-## Q. Is Desmos compliant with NY State Ed Law 2-D?
+## Q. Is Desmos compliant with NY State Education Law 2-D?
 
-A. Yes. Ed- Law 2-D is a New York state law designed to protect the personally identifiable information of students. We are happy to work with New York school districts to put Ed Law 2-D compliance documents, such as a data sharing agreements, into place. We reserve the right to request modifications to such compliance documents to clarify or reflect our internal compliance processes for certain requirements of Ed Law 2-D, such as the return and/or the deletion of student data. Please email us at [privacy@desmos.com](mailto:privacy@desmos.com) for more information.
+A. Yes. Education Law 2-D is a New York state law designed to protect the personally identifiable information of students. We are happy to work with New York school districts to put Education Law 2-D compliance documents, such as data sharing agreements, into place. We reserve the right to request modifications to such compliance documents to clarify or reflect our internal compliance processes for certain requirements of Education Law 2-D, such as the return and/or the deletion of student data. Please email us at [privacy@desmos.com](mailto:privacy@desmos.com) for more information.
 
 ## Q. How do you protect the privacy of student data you share with third parties?
 
