@@ -173,7 +173,7 @@ Such measures include implementing the European Commission's Standard Contractua
 
 <!-- TODO Add link: School Data Processing Addendum -->
 We offer the School Data Processing Addendum (“DPA”) with attached Standard Contractual Clauses (“SCC”) for Schools that operate in the United Kingdom or EEA for purposes of the General Data Protection Regulation (“GDPR”) in connection with the use of Desmos’ Services by the School or Students of the School. You can review
-<!-- TODO add link to PDF at 'here' -->
+<!-- TODO add link to PDF at 'here' Explore how to serve pdf.-->
 our standard, template DPA with attached SCCs here. If you represent a school and would like to enter into that DPA (and attached SCCs) with us, please send an email to privacy-gdpr@desmos.com, with the following information about the school: (i) name, (ii) address, (iii) telephone number, (iv) signatory name, (v) signatory title, and (vi) signatory email address, and (vii) teacher.desmos.com account usernames. We will then send the school’s signatory a copy of the DPA for electronic signatures via DocuSign or equivalent, and arrange for signature by Desmos’ authorized representative.
 
 <!-- TODO Link 'California Privacy Rights' to new California Privacy Rights page.-->
@@ -197,8 +197,23 @@ Email: privacy@desmos.com
 
 If you are a resident in the European Economic Area, the "data controller" of your Personal Data is either Desmos, Inc. or your School.
 
-<!-- TODO Wait for info from Meaghan on what info needs to be inserted. -->
-Desmos, Inc. has appointed [INSERT NAME] to be its representative in the UK and EEA. You can contact them directly regarding the processing of your information by Desmos, Inc.  by email at [INSERT CONTACT EMAIL] or by post to: [INSERT ADDRESS].]
+**Request a School Data Processing Addendum**: If you represent a school and would like to enter into that DPA (and attached SCCs) with us, please send an email to [privacy-gdpr@desmos.com](mailto:privacy-gdpr@desmos.com), with the following information about the school: (i) name, (ii) address, (iii) telephone number, (iv) signatory name, (v) signatory title, and (vi) signatory email address, and (vii) teacher.desmos.com account usernames. We will then send the school’s signatory a copy of the DPA for electronic signatures via DocuSign or equivalent, and arrange for signature by Desmos’ authorized representative.
+
+**General Data Protection Regulation (GDPR) – European Representative**
+
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Desmos, Inc. has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+
+- by using EDPO’s online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
+- by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+
+**UK General Data Protection Regulation (GDPR) - UK Representative**
+
+Pursuant to Article 27 of the UK GDPR, Desmos, Inc. has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+
+- by using EDPO’s online request form: [https://edpo.com/uk-gdpr-data-request/](https://edpo.com/uk-gdpr-data-request/)
+- by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+
+Additionally, as required by GDPR, Desmos has SCCs with our subcontractors who process Personal Data.
 
 <h2 id="changes-and-updates">12. Changes and Updates</h2>
 
