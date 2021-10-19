@@ -1,10 +1,6 @@
 # Privacy and Student Data FAQs
 
-Desmos’ services are designed for use by higher-ed students, K-12 students, teachers, professors, parents, math enthusiasts, video game designers, data scientists, and more. The goal of this page is to respond to frequently asked questions about our policies regarding privacy, student work, advertising, and various laws and regulations like COPPA, FERPA and GDPR. Please note that this is just an overview, and that usage of our services is governed by our [Terms of Service](https://www.desmos.com/terms), our [Privacy Policy](https://www.desmos.com/privacy), our [Student Data Privacy Statement](https://www.desmos.com/studentdata), and, if executed by your school and Desmos, our School Data Processing Addendum.
-<!--
-  TODO Missing link to School data protection addendum
-  This will be an email?
- -->
+Desmos’ services are designed for use by higher-ed students, K-12 students, teachers, professors, parents, math enthusiasts, video game designers, data scientists, and more. The goal of this page is to respond to frequently asked questions about our policies regarding privacy, student work, advertising, and various laws and regulations like COPPA, FERPA and GDPR. Please note that this is just an overview, and that usage of our services is governed by our [Terms of Service](https://www.desmos.com/terms), our [Privacy Policy](https://www.desmos.com/privacy), our [Student Data Privacy Statement](https://www.desmos.com/studentdata), and, if executed by your school and Desmos, our [School Data Processing Addendum](https://www.desmos.com/privacy#contact-us).
 
 We expect our different services will be used in very different ways, so our policies differ from service to service. For the rest of this document, we will talk about the following services:
 
@@ -60,11 +56,8 @@ Depending on how and which Desmos services you access, either Desmos or your sch
 * If you are using **Desmos Tools**, Desmos is the “controller” of personal data processed in connection with the services for purposes of the GDPR.
 
 If your school is acting as the controller of your personal data, please first contact your school to exercise your rights under the GDPR with respect to such personal data.
-<!--
-  TODO add link below, 'contact us', that directs to the
-  privacy policy contact section. Will link to Contact us setion at the bottom of the privacy policy page.
--->
-If we are acting as the controller of  your personal data, please feel free to contact us to exercise your rights with respect under the GDPR to your personal data.
+
+If we are acting as the controller of  your personal data, please feel free to [contact us](https://www.desmos.com/privacy#contact-us) to exercise your rights with respect under the GDPR to your personal data.
 
 In accordance with [Article 27 of the GDPR](https://gdpr.eu/article-27-representatives-of-controllers-not-in-union/), we have appointed EDPO as our representative. You can contact EDPOas follows:
 
