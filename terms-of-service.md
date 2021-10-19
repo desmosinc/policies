@@ -1,7 +1,6 @@
 # Terms of Service
 
-Thank you for your interest in using the online services operated by Desmos, Inc. ("**Desmos**").
-These Terms of Service ("**Terms**") govern your use of Desmos’ online services (collectively, the "**Services**"), including the services which are offered through (i) our mobile applications, including our (a) Desmos Graphing Calculator application, which currently is available as an Android app and iOS app and (b) Desmos Test Mode application for iPads, (ii) our website located at Desmos.com, and (iii) third party providers of educational services, such as schools, school districts, or teachers (collectively referred to as "**Schools**") that use our services at teacher.desmos.com and student.desmos.com.
+Thank you for your interest in using the online services operated by Desmos, Inc. ("**Desmos**" or “**we**” / “**us**”).  These Terms of Service ("**Terms**") govern your and/or your School’s (defined below)  use of Desmos’ online and app services (collectively, the "**Services**").
 
 Click on the links below to jump to that subsection of these Terms.
 

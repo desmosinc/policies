@@ -62,7 +62,7 @@ Depending on how and which Desmos services you access, either Desmos or your sch
 If your school is acting as the controller of your personal data, please first contact your school to exercise your rights under the GDPR with respect to such personal data.
 <!--
   TODO add link below, 'contact us', that directs to the
-  privacy policy contact page
+  privacy policy contact section. Will link to Contact us setion at the bottom of the privacy policy page.
 -->
 If we are acting as the controller of  your personal data, please feel free to contact us to exercise your rights with respect under the GDPR to your personal data.
 
