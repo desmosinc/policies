@@ -1,6 +1,6 @@
 # Privacy and Student Data FAQs
 
-Desmos’ services are designed for use by higher-ed students, K-12 students, teachers, professors, parents, math enthusiasts, video game designers, data scientists, and more. The goal of this page is to respond to frequently asked questions about our policies regarding privacy, student work, advertising, and various laws and regulations like COPPA, FERPA and GDPR. Please note that this is just an overview, and that usage of our services is governed by our [Terms of Service](https://www.desmos.com/terms), our [Privacy Policy](https://www.desmos.com/privacy), our [Student Data Privacy Statement](https://www.desmos.com/studentdata), and, if executed by your school and Desmos, our School Data Protection Addendum.
+Desmos’ services are designed for use by higher-ed students, K-12 students, teachers, professors, parents, math enthusiasts, video game designers, data scientists, and more. The goal of this page is to respond to frequently asked questions about our policies regarding privacy, student work, advertising, and various laws and regulations like COPPA, FERPA and GDPR. Please note that this is just an overview, and that usage of our services is governed by our [Terms of Service](https://www.desmos.com/terms), our [Privacy Policy](https://www.desmos.com/privacy), our [Student Data Privacy Statement](https://www.desmos.com/studentdata), and, if executed by your school and Desmos, our School Data Processing Addendum.
 <!--
   TODO Missing link to School data protection addendum
   This will be an email?
