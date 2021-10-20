@@ -47,8 +47,8 @@ The categories of Personal Information we collect are described below by referen
 - Education information, such as student records and directory information.
 - Inferences that we derive from the preceding or other information we collect.
 - Information you voluntarily provide to us, such as in free-form webforms, may contain other categories of personal information not described above.
-  <!-- TODO double check that this renders as bold and underlined. -->
-  _**Sources**_. Internet/network activity information, IP address, and other online identifiers are collected automatically through your use of our online services. We collect education information from schools that use our services. Otherwise, we collect the information above from you.
+
+_**Sources**_. Internet/network activity information, IP address, and other online identifiers are collected automatically through your use of our online services. We collect education information from schools that use our services. Otherwise, we collect the information above from you.
 
 _**Disclosures**_ to third parties for business purposes. We describe the categories of third parties to whom we disclose Personal Information described above for business purposes in the section of our Privacy Statement entitled “Disclosure of Your Information”.
 

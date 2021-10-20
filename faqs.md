@@ -13,14 +13,14 @@ We expect our different services will be used in very different ways, so our pol
 A. No!
 Desmos’s business model is built around two lines of business: (1) paid partnerships with publishers, assessment companies, and educational institutions (Interested? Check out [www.desmos.com/partners](https://www.desmos.com/partners)), and (2) our premium Desmos Math Curriculum (Interested? Check out [www.desmos.com/curriculum](http://www.desmos.com/curriculum)). We will never profit from third-party advertising to students or selling personal data about students. Specifically, we pledge that:
 
-* We will never allow third-party advertising on our student-facing websites or apps (both **Desmos Tools** and **student.desmos.com**).
-* We will never sell personal data collected on our student-facing websites or apps (both **Desmos Tools** and **student.desmos.com**), or authorize third parties to collect data to be used for targeted advertising on Desmos or anywhere else.
+- We will never allow third-party advertising on our student-facing websites or apps (both **Desmos Tools** and **student.desmos.com**).
+- We will never sell personal data collected on our student-facing websites or apps (both **Desmos Tools** and **student.desmos.com**), or authorize third parties to collect data to be used for targeted advertising on Desmos or anywhere else.
 
 These promises will live on, even in the case that we’re purchased or go bankrupt.
 
 ## Q. Can I use the Desmos Tools and Activities on my digital learning platform, if I’m providing a class as part of a commercial platform or if I am creating tuition-based asynchronous classes?
 
-Demsos often allows individual instructors to use Desmos Tools and Activities in connection with (i) instruction via a commercial platform and (ii)  tuition-based asynchronous classes, but requires advance written (including via email) permission from Desmos for each such use. In addition to seeking permission, the instructor should provide attribution to Desmos within the course materials.
+Demsos often allows individual instructors to use Desmos Tools and Activities in connection with (i) instruction via a commercial platform and (ii) tuition-based asynchronous classes, but requires advance written (including via email) permission from Desmos for each such use. In addition to seeking permission, the instructor should provide attribution to Desmos within the course materials.
 
 If a commercial instructional entity, company, or provider is interested in permission to use Desmos across their entire digital platform, or across curricula taught by the entity’s entire teaching faculty of said curricula, then a formal licensing agreement with Desmos is required.
 
@@ -45,19 +45,20 @@ We expect only teachers, not students, to use **teacher.desmos.com** for creatin
 
 Our **Desmos Tools** are intended for individual usage. We don’t know when any of these tools is used at the direction of a teacher as part of an assignment, so we can’t be helpful with FERPA compliance. For this reason, we teachers and schools should only use **Desmos Classroom** (teacher.desmos.com and student.desmos.com) for collecting academic assignments.
 
-We assume that all work in **student.desmos.com** has been assigned by a teacher or school for academic purposes. We don’t own any personal information collected through **student.desmos.com** – that is controlled by the teacher and school. Parents and students have rights under FERPA to access that work. Note that only the relevant  teacher, school or the student can ask Desmos to delete work done on student.desmos.com. Note further that if an account on teacher.desmos.com is deleted, student work associated with any activities that the teacher ran will be deleted as a result, even for students who still have an account. Please see our [Student Data Privacy Statement](https://www.desmos.com/studentdata) for more details.
+We assume that all work in **student.desmos.com** has been assigned by a teacher or school for academic purposes. We don’t own any personal information collected through **student.desmos.com** – that is controlled by the teacher and school. Parents and students have rights under FERPA to access that work. Note that only the relevant teacher, school or the student can ask Desmos to delete work done on student.desmos.com. Note further that if an account on teacher.desmos.com is deleted, student work associated with any activities that the teacher ran will be deleted as a result, even for students who still have an account. Please see our [Student Data Privacy Statement](https://www.desmos.com/studentdata) for more details.
 
 ## Q. Does Desmos comply with GDPR?
+
 A. Yes. If you are a resident of the United Kingdom, Iceland, Liechtenstein, or Norway, or a member state of the European Union, you may have additional rights under the General Data Protection Regulation or GDPR (the “**GDPR**”) with respect to your personal data.
 
-Depending on how and which Desmos services you access, either Desmos or your school may be the “controller”  of your Personal Data processed in connection with the services for purposes of the GDPR.
+Depending on how and which Desmos services you access, either Desmos or your school may be the “controller” of your Personal Data processed in connection with the services for purposes of the GDPR.
 
-* If you are using **Desmos Classroom Activities**, your school is the “controller” of personal data processed in connection with the services for purposes of the GDPR.
-* If you are using **Desmos Tools**, Desmos is the “controller” of personal data processed in connection with the services for purposes of the GDPR.
+- If you are using **Desmos Classroom Activities**, your school is the “controller” of personal data processed in connection with the services for purposes of the GDPR.
+- If you are using **Desmos Tools**, Desmos is the “controller” of personal data processed in connection with the services for purposes of the GDPR.
 
 If your school is acting as the controller of your personal data, please first contact your school to exercise your rights under the GDPR with respect to such personal data.
 
-If we are acting as the controller of  your personal data, please feel free to [contact us](https://www.desmos.com/privacy#contact-us) to exercise your rights with respect under the GDPR to your personal data.
+If we are acting as the controller of your personal data, please feel free to [contact us](https://www.desmos.com/privacy#contact-us) to exercise your rights with respect under the GDPR to your personal data.
 
 In accordance with [Article 27 of the GDPR](https://gdpr.eu/article-27-representatives-of-controllers-not-in-union/), we have appointed EDPO as our representative. You can contact EDPOas follows:
 
@@ -96,12 +97,12 @@ A. We have data privacy agreements with many school districts across several sta
 A. Yes. Education Law 2-D is a New York state law designed to protect the personally identifiable information of students. We are happy to work with New York school districts to put Education Law 2-D compliance documents, such as data sharing agreements, into place. We reserve the right to request modifications to such compliance documents to clarify or reflect our internal compliance processes for certain requirements of Education Law 2-D, such as the return and/or the deletion of student data. Please email us at [privacy@desmos.com](privacy@desmos.com) for more information.
 
 ## Q. Is Desmos compliant with the California Consumer Privacy Act (CCPA)?
-<!-- TODO Link, California Privacy Rights Statement -->
-A. Yes, may review the details of Desmos’ compliance in our California Privacy Rights Statement.
+
+A. Yes, may review the details of Desmos’ compliance in our [California Privacy Rights Statement](https://www.desmos.com/caprivacy).
 
 ## Q. Does Desmos use or collect Cookies?
-<!-- TODO Link, 'Desmos Cookie Policy' -->
-A. Yes, but we work incredibly hard to only collect what is necessary to maintain a consistent experience. For example, Desmos.com uses cookies to enable persistence when you are signed in. In addition, on subdomains help.desmos.com, learn.desmos.com, and pontoon.desmos.com, third party service providers use cookies for functionality and for analytics. Where possible, we have minimized what cookies are collected by those third party service providers. For more information, please review the Desmos Cookie Policy.
+
+A. Yes, but we work incredibly hard to only collect what is necessary to maintain a consistent experience. For example, Desmos.com uses cookies to enable persistence when you are signed in. In addition, on subdomains help.desmos.com, learn.desmos.com, and pontoon.desmos.com, third party service providers use cookies for functionality and for analytics. Where possible, we have minimized what cookies are collected by those third party service providers. For more information, please review the [Desmos Cookie Policy](https://www.desmos.com/cookiepolicy).
 
 ## Q. How do you protect the privacy of student data you share with third parties?
 
@@ -116,7 +117,9 @@ We try our hardest to keep this list up to date, but we may add or subtract serv
 A. We make it easy to see any changes we make to our policies. We host our Terms of Service, Privacy Policy, Student Data Privacy Statement, Cookie Policy, and List of Third Party Services in a public github repository at [https://github.com/desmosinc/policies](https://github.com/desmosinc/policies). These FAQs are also hosted there.
 
 As a result, you can see both the current version of each document and a complete history of changes. In addition, we will prominently post a notice on our websites if we make any major changes to any of these policy documents. We will not necessarily notify you for small changes (e.g. modifications to the list of Third Party Services). However, you can subscribe to notifications from the github repository if you’re interested in being updated on every change. ([Instructions](https://help.github.com/articles/watching-repositories/).)
+
 <!-- TODO Update with data of release -->
+
 These FAQs were last updated [date of update]
 
 ## Q. What if I have other questions?

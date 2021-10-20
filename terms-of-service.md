@@ -24,7 +24,6 @@ Click on the links below to jump to that subsection of these Terms.
 17. [Miscellaneous](#miscellaneous)
 18. [Modifications to Terms and Services](#modifications)
 
-
 <h2 id="services">1. Our Services</h2>
 
 Our Services enable you to explore math. You can use our calculators and tools to graph functions, plot tables of data, evaluate equations, explore transformations, construct and represent geometric relationships, and much more. You can use our classroom activities and curricula to create, teach and learn mathematical concepts.
@@ -33,8 +32,8 @@ By using our Services, you agree to be bound by these Terms and to the collectio
 
 Our Services include the following:
 
-* “**Desmos Tools**”: these are our tools on www.desmos.com, including the [Graphing Calculator](https://www.desmos.com/calculator), [Scientific Calculator](https://www.desmos.com/scientific), [Four Function Calculator](https://www.desmos.com/fourfunction), [Geometry Tool](https://www.desmos.com/geometry), and future standalone tools to come. This term also includes any apps associated with those tools, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads.
-* “**Desmos Classroom Activities**”: which includes all our services (i) on [teacher.desmos.com](https://teacher.desmos.com/) (“**teacher.desmos.com**”) including those for creating and assigning activities (“**Activities**”) and the Desmos provided curriculum available via [https://www.desmos.com/curriculum](https://www.desmos.com/curriculum) (“**Desmos Curriculum**”), and (ii) on [student.desmos.com](https://student.desmos.com/) (“**student.desmos.com**”), specifically those for the use of activities or curricula as directed by an instructor on teacher.desmos.com.  The services on teacher.desmos.com are designed to be managed by providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as "**Schools**") for the benefit of students of such Schools (“**Students**”).
+- “**Desmos Tools**”: these are our tools on www.desmos.com, including the [Graphing Calculator](https://www.desmos.com/calculator), [Scientific Calculator](https://www.desmos.com/scientific), [Four Function Calculator](https://www.desmos.com/fourfunction), [Geometry Tool](https://www.desmos.com/geometry), and future standalone tools to come. This term also includes any apps associated with those tools, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads.
+- “**Desmos Classroom Activities**”: which includes all our services (i) on [teacher.desmos.com](https://teacher.desmos.com/) (“**teacher.desmos.com**”) including those for creating and assigning activities (“**Activities**”) and the Desmos provided curriculum available via [https://www.desmos.com/curriculum](https://www.desmos.com/curriculum) (“**Desmos Curriculum**”), and (ii) on [student.desmos.com](https://student.desmos.com/) (“**student.desmos.com**”), specifically those for the use of activities or curricula as directed by an instructor on teacher.desmos.com. The services on teacher.desmos.com are designed to be managed by providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as "**Schools**") for the benefit of students of such Schools (“**Students**”).
 
 <h2 id="eligibility">2. Eligibility and Authority</h2>
 
@@ -46,40 +45,35 @@ If you are using our Services independently from a School, then you agree to the
 
 <h2 id="personal-information">3. Personal Information and Student Data</h2>
 
-This Section 3 applies to a School’s use of the Desmos Classroom through teacher.desmos.com and student.desmos.com. If you are a School teacher, Student, or parent/guardian of a Student, you may also refer to the [Student Data Privacy Statement](https://www.desmos.com/studentdata), and
-<!-- TODO Wait for meaghan's response on School Data Processing Addendum vs protection addendum -->
-if executed by the School and Desmos, our School Data Processing Addendum (“**DPA**”).
+This Section 3 applies to a School’s use of the Desmos Classroom through teacher.desmos.com and student.desmos.com. If you are a School teacher, Student, or parent/guardian of a Student, you may also refer to the [Student Data Privacy Statement](https://www.desmos.com/studentdata), and if executed by the School and Desmos, our [School Data Processing Addendum](https://www.desmos.com/privacy#contact-us) (“**DPA**”).
 
 When Desmos is used by a School for an educational purpose, Desmos may collect or have access to Student Data that is provided by the School or by the Student. “Student Data” is personal information that is directly related to an identifiable Student and may include “educational records” as defined by the Family Educational Rights and Privacy Act (“**FERPA**”), 20 U.S.C. § 1232(g).
 
-*Confidentiality*.
+_Confidentiality_.
 Desmos agrees to treat Student Data as confidential and not to share it with third parties other than as described in these Terms, and in our [Privacy Policy](https://www.desmos.com/privacy) and [Student Data Privacy Statement](https://www.desmos.com/studentdata), and if executed by the School and Desmos, our DPA.
 
-*Student Data Access*.
+_Student Data Access_.
 You authorize Desmos to access or collect Student Data for the purpose of providing the Services. In the U.S., Desmos shall collect and process Student Data as a School Official with a legitimate educational interest pursuant to FERPA 34 CFR Part 99.31(a)(1). As between the parties, the School or the Student owns and controls the Student Data. Desmos does not own or control, or license such Student Data, except as to provide the Service and as described in these Terms, our [Privacy Policy](https://www.desmos.com/privacy) and [Student Data Privacy Statement](https://www.desmos.com/studentdata), and if executed by the School and Desmos, our DPA
 
-*Personal Information and Student Data Consents and Authority*.
-If you are a School representative, you represent and warrant that you have provided appropriate disclosures to your School and to parents regarding your sharing such personal information with Desmos. Both the School and Desmos hereby agree to uphold their respective obligations under FERPA, the Protection of Pupil Rights Amendment ("**PPRA**"), COPPA and applicable State laws relating to student data privacy, and if
-<!-- TODO Link School Data Processing Addendum to end of privacy
-policy that contains addendum request language -->
-executed by your school and Desmos, our School Data Processing Addendum. Desmos relies on each School to obtain and provide appropriate consent and disclosures, if necessary, for Desmos to collect any Student Data, including the collection of Student Data directly from Students under the age of 13, or the applicable age of digital majority in the Student’s jurisdiction. We recommend that Schools provide a copy of the Desmos [Student Data Privacy Statement](https://www.desmos.com/studentdata) to each Student’s parent/guardian. Each School hereby agrees to comply with these Terms and all laws and regulations governing the protection of personal information, including children’s information, and the sharing of student education records.
+_Personal Information and Student Data Consents and Authority_.
+If you are a School representative, you represent and warrant that you have provided appropriate disclosures to your School and to parents regarding your sharing such personal information with Desmos. Both the School and Desmos hereby agree to uphold their respective obligations under FERPA, the Protection of Pupil Rights Amendment ("**PPRA**"), COPPA and applicable State laws relating to student data privacy, and if executed by your school and Desmos, our [School Data Processing Addendum](https://www.desmos.com/privacy#contact-us). Desmos relies on each School to obtain and provide appropriate consent and disclosures, if necessary, for Desmos to collect any Student Data, including the collection of Student Data directly from Students under the age of 13, or the applicable age of digital majority in the Student’s jurisdiction. We recommend that Schools provide a copy of the Desmos [Student Data Privacy Statement](https://www.desmos.com/studentdata) to each Student’s parent/guardian. Each School hereby agrees to comply with these Terms and all laws and regulations governing the protection of personal information, including children’s information, and the sharing of student education records.
 
-*Use of Student Data*.
+_Use of Student Data_.
 By submitting or providing us access to Student Data, you agree that Desmos may use the Student Data solely for the purposes of (i) providing the Service, (ii) improving and developing our Service, (iii) enforcing our rights under these Terms, and (iv) as permitted with the School’s consent.**Desmos shall not use Student Data to engage in targeted advertising**.
 
-*Use of Anonymized Student Data*.
+_Use of Anonymized Student Data_.
 You agree that we may collect and use data derived from Student Data for our own purposes, such as for product development, research analytics, and marketing our Service, provided that (i) such data will be de-identified and/or aggregated to reasonably avoid identification of a specific individual and (ii) Desmos will seek to impose contractual limits on any third parties with access to de-identified data preventing reidentification of de-identified data.
 
-*Use of Personal Information for Marketing*.
+_Use of Personal Information for Marketing_.
 You agree that Desmos may provide customized, relevant marketing messaging for Desmos and Desmos partners products and services to Schools or School representatives and teachers from time to time, provided that such advertisements shall not be based on Student Data. For emphasis, and without limitation, Desmos shall never use Student Data to engage in targeted advertising, nor shall Desmos direct advertising to Student users on student.desmos.com.
 
-*Third-Party Service Providers*.
+_Third-Party Service Providers_.
 You acknowledge and agree that Desmos may provide access to Student Data to our employees and service providers, which have a legitimate need to access such information in order to provide their services to us. We and our employees, affiliates, service providers, or agents involved in the handling, transmittal, and processing of Student Data will be required to maintain the confidentiality of such Student Data.
 
-*Student Data Retention and Deletion Requests*.
-Schools and teachers may delete (i) via deletion of the teacher’s account on Desmos, all associated Student Data our possession at any time and (ii) by sending a written or emailed noticed ([privacy@desmos.com](mailto:privacy@desmos.com)), delete specific Student Data associated with the teacher’s account,  Desmos shall not be required to delete content that a Student has not associated with the School use.  We shall respond to the deletion request as soon as possible, but in most instances within 45 days, other than for data stored in logs and backups which shall be deleted in the ordinary course of business. For inactive accounts, we delete or de-identify Student Data in our possession after a period of dormancy or at the request of a parent or guardian. A parent or guardian seeking to modify, correct, or delete personal information of a Student that is connected to an active School account will be instructed to contact the School to discuss data deletion or modification. We are not required to delete data that has been derived from Student Data so long as it has been anonymized such that it does not reasonably identify an individual. Similarly, we are not required to delete, at a School’s request, any information which a Student or parent / guardian has saved or transferred to a personal account.
+_Student Data Retention and Deletion Requests_.
+Schools and teachers may delete (i) via deletion of the teacher’s account on Desmos, all associated Student Data our possession at any time and (ii) by sending a written or emailed noticed ([privacy@desmos.com](mailto:privacy@desmos.com)), delete specific Student Data associated with the teacher’s account, Desmos shall not be required to delete content that a Student has not associated with the School use. We shall respond to the deletion request as soon as possible, but in most instances within 45 days, other than for data stored in logs and backups which shall be deleted in the ordinary course of business. For inactive accounts, we delete or de-identify Student Data in our possession after a period of dormancy or at the request of a parent or guardian. A parent or guardian seeking to modify, correct, or delete personal information of a Student that is connected to an active School account will be instructed to contact the School to discuss data deletion or modification. We are not required to delete data that has been derived from Student Data so long as it has been anonymized such that it does not reasonably identify an individual. Similarly, we are not required to delete, at a School’s request, any information which a Student or parent / guardian has saved or transferred to a personal account.
 
-*Data Breach Notification*.
+_Data Breach Notification_.
 We have implemented administrative, physical and technical safeguards designed to secure Personal Information, including Student Data, from unauthorized access, disclosure and use. In the event we have a reasonable, good faith belief that an unauthorized party has gained access to or been disclosed Student Data (a “**Security Event**”), that we have collected or received through the Service, we will promptly notify the School. If, due to a Security Event which is caused by the acts or omissions of Desmos or its agents, a notification to an individual, organization or government agency is required under applicable privacy laws, the School shall be responsible for the timing, content, and method of any such legally-required notice and compliance with such laws. With respect to any Security Event which is not caused by the acts or omissions of Desmos or its agents, Desmos shall reasonably cooperate with School’s investigation of the Security Event, as School requests, at School’s reasonable expense. Desmos shall be responsible for the timing, content, cost and method of notice and compliance with such laws as they relate to any accounts that are not associated with a School account.
 
 <h2 id="responsibilities">4. Your Responsibilities</h2>
@@ -102,7 +96,7 @@ b. not to use the Desmos Services to:
 
 <h2 id="use">5. Personal, Non-Commercial Use Only for Desmos Tools and Activities</h2>
 
-You agree to use the Desmos Tools and Activities  only (a) as an end user, for your personal, non-commercial use or (b) as a School, for academic use by you and your Students in individual classes. Desmos does, pursuant to a separate written agreement, permit certain third parties (y) to integrate with the Desmos Tools and Activities for commercial use, and (z) to use the graphing calculator to generate graphs for commercial uses (including textbooks). Please contact [partnerships@desmos.com](mailto:partnerships@desmos.com) for more information about entering into a relationship with Desmos that would permit commercial use of the Desmos Tools and Activities.
+You agree to use the Desmos Tools and Activities only (a) as an end user, for your personal, non-commercial use or (b) as a School, for academic use by you and your Students in individual classes. Desmos does, pursuant to a separate written agreement, permit certain third parties (y) to integrate with the Desmos Tools and Activities for commercial use, and (z) to use the graphing calculator to generate graphs for commercial uses (including textbooks). Please contact [partnerships@desmos.com](mailto:partnerships@desmos.com) for more information about entering into a relationship with Desmos that would permit commercial use of the Desmos Tools and Activities.
 
 <h2 id="user-submissions">6. User Submissions and General Materials</h2>
 
@@ -110,13 +104,13 @@ Desmos does not claim ownership of any materials (other than the underlying soft
 
 <h2 id="schools">7. Special Terms for Schools</h2>
 
-a. *Fees*.
+a. _Fees_.
 If Desmos makes any Desmos Service available without charging a fee, then Desmos will not thereafter charge a fee to Schools to use such existing Desmos Service. The foregoing will not, however, prohibit Desmos from removing support for any Desmos Service or from charging a fee for any new Desmos Services that are complementary to, or may be used together with, such existing Desmos Service.
 
-b. *Activity Sharing*.
+b. _Activity Sharing_.
 At the time you, as a School user, submit to Desmos an activity you’ve developed using the Desmos Activity Builder (an “**Activity**”), you may elect to make your Activity public. If you do so, then you expressly authorize Desmos to (i) make your Activity available to other Schools for use in individual classes with other students, (ii) allow other School users to copy and modify your Activity and use the modified version in individual classes with other students and (iii) modify your Activity and make the modified version available to other School users for use in individual classes with other students. In the case of any such use of your Activity (whether unmodified or modified), you will receive an attribution credit. If you elect to make your Activity public, in no event will Desmos authorize any third party to sell your Activity to others, nor will Desmos sell your activity itself, without your permission.
 
-c. *Desmos Curriculum*.
+c. _Desmos Curriculum_.
 The Desmos Curriculum is available for purchase by Schools. Please contact to [curriculum@desmos.com](mailto:curriculum@desmos.com) for pricing and other information regarding usage of the Desmos Curriculum.
 
 <h2 id="copyright">8. Copyright Infringement and Abuse</h2>
@@ -165,9 +159,9 @@ Desmos may integrate with or provide links to certain third party Internet sites
 
 **b. Under no circumstances will Desmos or its officers, employees, directors, shareholders, agents, or licensors be liable under any theory of liability (whether in contract, tort, statutory, or otherwise) for any damages whatsoever, including direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of money, revenues, profits, goodwill, use, data or other intangible losses (even if such parties were advised of, knew of or should have known of the possibility of such damages), resulting from your (or anyone using your account's) use of the Desmos services.**
 
-**c. If, notwithstanding these Terms, Desmos is found to be liable to you or any third party in connection with your use of the Desmos services, the total liability of Desmos and its officers, employees, directors, shareholders, agents, or licensors to you or to any third party is limited to one hundred U.S. Dollars ($100).**
+**c. If, notwithstanding these Terms, Desmos is found to be liable to you or any third party in connection with your use of the Desmos services, the total liability of Desmos and its officers, employees, directors, shareholders, agents, or licensors to you or to any third party is limited to one hundred U.S. Dollars (\$100).**
 
-d. *Exclusions And Limitations*. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for certain damages. Accordingly, some of the above limitations and disclaimers may not apply to you. To the extent that Desmos may not, as a matter of applicable law, disclaim any implied warranty or limit its liabilities, the scope and duration of such warranty and the extent of Desmos’ liability will be the minimum permitted under such applicable law.
+d. _Exclusions And Limitations_. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for certain damages. Accordingly, some of the above limitations and disclaimers may not apply to you. To the extent that Desmos may not, as a matter of applicable law, disclaim any implied warranty or limit its liabilities, the scope and duration of such warranty and the extent of Desmos’ liability will be the minimum permitted under such applicable law.
 
 <h2 id="indemnification">15. Indemnification</h2>
 
@@ -179,19 +173,19 @@ You agree to indemnify, defend, and hold harmless Desmos and its officers, direc
 
 <h2 id="miscellaneous">17. Miscellaneous</h2>
 
-*Entire Agreement*.
-These Terms, our Privacy Policy, our [Privacy Policy](https://www.desmos.com/privacy), our [Student Data Privacy Statement](https://www.desmos.com/studentdata), and,
-<!-- TODO Link School Data Processing Addendum to end of privacy policy that contains addendum request language -->
-if executed by your school and Desmos, our School Data Processing Addendum, together with any additional terms to which you agree when using particular elements of the Desmos Services (e.g., terms relating to the payment of fees for certain Desmos Services), constitute the entire and exclusive and final statement of the agreement between you and Desmos with respect to the subject matter hereof, and govern your use of the Desmos Services, superseding any prior agreements or negotiations between you and Desmos with respect to the subject matter hereof, other than to the extent expressly overridden by a written agreement with Desmos.
+_Entire Agreement_.
+These Terms, our Privacy Policy, our [Privacy Policy](https://www.desmos.com/privacy), our [Student Data Privacy Statement](https://www.desmos.com/studentdata), and, if executed by your school and Desmos, our [School Data Processing Addendum](https://www.desmos.com/privacy#contact-us), together with any additional terms to which you agree when using particular elements of the Desmos Services (e.g., terms relating to the payment of fees for certain Desmos Services), constitute the entire and exclusive and final statement of the agreement between you and Desmos with respect to the subject matter hereof, and govern your use of the Desmos Services, superseding any prior agreements or negotiations between you and Desmos with respect to the subject matter hereof, other than to the extent expressly overridden by a written agreement with Desmos.
 
-*Governing Law*.
+_Governing Law_.
 These Terms and the relationship between you and Desmos will be governed by the laws of the State of California as applied to agreements made, entered into, and performed entirely in California by California residents, notwithstanding your actual place of residence. All lawsuits arising from or relating to these Terms or your use of the Desmos Services will be brought in the Federal or State courts located in San Francisco County, California, and you hereby irrevocably submit to the exclusive personal jurisdiction of such courts for such purpose.
 
-*Additional Terms*.
+_Additional Terms_.
 The failure of Desmos to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. If any provision of these Terms is found by a court of competent jurisdiction to be invalid, you nevertheless agree that the court should endeavor to give effect to the intentions of Desmos and you as reflected in the provision, and that the other provisions of these Terms remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Desmos Services or these Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in these Terms are for convenience only and have no legal or contractual effect. These Terms will remain in full force and effect notwithstanding any termination of your use of the Desmos Services. If access to the Desmos Services is licensed to the United States government or any agency thereof, then the Desmos Services will be deemed to be “commercial computer software” and “commercial computer software documentation,” pursuant to DFARS Section 227.7202 and FAR Section 12.212, respectively, as applicable. Any use, reproduction, release, performance, display, or disclosure of the Desmos Services and any accompanying documentation by the U.S. Government will be governed solely by these Terms and is prohibited except to the extent expressly permitted by these Terms.
 
 <h2 id="modifications">18. Modifications To Terms and Services</h2>
 
-a. *Modifications*. These Terms may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such update constitutes your agreement to the revised Terms. You can see the history of the changes to our Terms [here](https://github.com/desmosinc/policies). If you object to any such changes, your sole recourse will be to cease using the Desmos Services. Continued use of the Desmos Services following notice of any such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Desmos reserves the right to modify or discontinue the Desmos Services with or without notice to you.
+a. _Modifications_. These Terms may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such update constitutes your agreement to the revised Terms. You can see the history of the changes to our Terms [here](https://github.com/desmosinc/policies). If you object to any such changes, your sole recourse will be to cease using the Desmos Services. Continued use of the Desmos Services following notice of any such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Desmos reserves the right to modify or discontinue the Desmos Services with or without notice to you.
+
 <!-- TODO Update with data of release -->
-b. *Date Last Modified*. These Terms were last modified [date of update].
+
+b. _Date Last Modified_. These Terms were last modified [date of update].
