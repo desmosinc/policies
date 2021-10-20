@@ -194,7 +194,7 @@ Email: privacy@desmos.com
 
 If you are a resident in the European Economic Area, the "data controller" of your Personal Data is either Desmos, Inc. or your School.
 
-**Request a School Data Processing Addendum**: If you represent a school and would like to enter into that DPA (and attached SCCs) with us, please send an email to [privacy-gdpr@desmos.com](mailto:privacy-gdpr@desmos.com), with the following information about the school: (i) name, (ii) address, (iii) telephone number, (iv) signatory name, (v) signatory title, and (vi) signatory email address, and (vii) teacher.desmos.com account usernames. We will then send the school’s signatory a copy of the DPA for electronic signatures via DocuSign or equivalent, and arrange for signature by Desmos’ authorized representative.
+**Request a School Data Processing Addendum**: If you represent a school and would like to enter into that DPA (and attached SCCs) with us, please send an email to [privacy-gdpr@desmos.com](mailto:privacy-gdpr@desmos.com?subject=Request%20for%20School%20Data%20Protection%20Addendum), with the following information about the school: (i) name, (ii) address, (iii) telephone number, (iv) signatory name, (v) signatory title, and (vi) signatory email address, and (vii) teacher.desmos.com account usernames. We will then send the school’s signatory a copy of the DPA for electronic signatures via DocuSign or equivalent, and arrange for signature by Desmos’ authorized representative.
 
 **General Data Protection Regulation (GDPR) – European Representative**
 
