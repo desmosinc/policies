@@ -2,7 +2,7 @@
 
 **Summary**: We are committed to protecting your privacy as described in this Privacy Policy.
 
-Desmos, Inc. (“**we**” or “**Desmos**”) is committed to protecting your privacy. This Privacy Policy describes our collection and use of personal information collected from visitors to our website and our mobile application(s) (collectively, our “**Service**”), including the following Services offered at desmos.com, our mobile apps and any other website, app, or online service which links to this Privacy Policy. "**You**" or “**your**” means a visitor or a user (whether logged in or not) of our Service.
+Desmos, Inc. (“**we**” or “**Desmos**”) is committed to protecting your privacy. This Privacy Policy describes our collection and use of personal information collected from visitors to our website and our mobile application(s) (collectively, our “**Service**”), including the Services offered at desmos.com, our mobile apps and any other website, app, or online service which links to this Privacy Policy. "**You**" or “**your**” means a visitor or a user (whether logged in or not) of our Service.
 
 This Privacy Policy is incorporated into and is subject to our [Terms of Service](/terms), which governs your use of the Services.
 
@@ -54,7 +54,7 @@ We refer to all of this data collectively as “**Personal Data**”. We may als
 
 We do **not** knowingly collect: (i) exact geolocation data, (ii) behavioral data for advertising purposes, (iii) biometric / health data, or (iv) sensitive data, as defined under the General Data Protection Regulation (GDPR) (including, racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade-union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation).
 
-Summary: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our websites or apps.
+**Summary**: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our websites or apps.
 
 b. _Usage Data_.
 We automatically collect certain technical usage information when you use our Service (“**Usage Data**”). Usage Data includes the information that your web browser or mobile application automatically sends to our servers whenever you visit. The Usage Data collected in our logs may include information such as your web request, Internet Protocol address, operating system, browser type, browser language, referring / exit pages and URLs, platform type, click history, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and whether you opened an email. Typically, this information is collected through log files, web beacons, browser cookies, or other device identifiers that may uniquely identify your browser or device. You may be able to set your web browser to refuse all cookies, and your mobile device to not provide your mobile device identifier. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, please review the [Desmos Cookie Policy](/cookiepolicy) or [www.allaboutcookies.org](https://www.allaboutcookies.org/). Remember, some features of our Service may not function properly if cookies or mobile device identifiers are not enabled. In addition, our Service may use third party analytics and bug tracking software (including, without limitation, Google Analytics and Bugsnag) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services. We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user. If we do so, we will treat such combined data as Personal Data.
@@ -154,7 +154,7 @@ The applicable age of digital consent varies by jurisdiction, but, subject to th
 
 If you are a parent / guardian and would like to authorize your child under the applicable age of digital consent to use our Services, please contact [privacy@desmos.com](mailto:privacy@desmos.com).
 
-We do not intend for children under age of digital consent to use our Services, subject to the three enumerated exceptions above.
+We do not intend for children under the age of digital consent to use our Services, subject to the three enumerated exceptions above.
 
 If you believe that we have accidentally collected Personal Data from a child under the applicable age of digital consent without either (i) a School’s direction to do so or (ii) the consent of a parent / guardian, then please let us know at [privacy@desmos.com](mailto:privacy@desmos.com) and we will remove that information as soon as possible.
 
@@ -205,8 +205,6 @@ Pursuant to Article 27 of the UK GDPR, Desmos, Inc. has appointed EDPO UK Ltd as
 
 - by using EDPO’s online request form: [https://edpo.com/uk-gdpr-data-request/](https://edpo.com/uk-gdpr-data-request/)
 - by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
-
-Additionally, as required by GDPR, Desmos has SCCs with our subcontractors who process Personal Data.
 
 <h2 id="changes-and-updates">12. Changes and Updates</h2>
 

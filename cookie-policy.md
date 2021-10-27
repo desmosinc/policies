@@ -4,9 +4,9 @@
 
 Last updated [date of update]
 
-This Cookie Policy explains how Desmos, Inc. (“Desmos“, “we“, “us“, and “our“) uses cookies and similar technologies to recognize you when you visit our websites at desmos.com (“Websites“). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Policy explains how Desmos, Inc. (“Desmos", “we", “us", and “our") uses cookies and similar technologies to recognize you when you visit our websites at desmos.com (“Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
-In some cases we may use cookies to collect personal information, or that becomes personal information if we combine it with other information.
+In some cases we may use cookies to collect personal information, or information that becomes personal information if we combine it with other information.
 
 ## What are cookies?
 
@@ -45,6 +45,8 @@ These cookies are strictly necessary to provide you with services available thro
 ## Performance and functionality cookies:
 
 These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use. However, without these cookies, certain functionality (like videos) may become unavailable.
+
+**N/A - No performance and functionality cookies.**
 
 ## Analytics and customization cookies:
 

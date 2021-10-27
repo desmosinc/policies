@@ -50,9 +50,9 @@ The categories of Personal Information we collect are described below by referen
 
 _**Sources**_. Internet/network activity information, IP address, and other online identifiers are collected automatically through your use of our online services. We collect education information from schools that use our services. Otherwise, we collect the information above from you.
 
-_**Disclosures**_ to third parties for business purposes. We describe the categories of third parties to whom we disclose Personal Information described above for business purposes in the section of our Privacy Statement entitled “Disclosure of Your Information”.
+_**Disclosures**_ to third parties for business purposes. We describe the categories of third parties to whom we disclose Personal Information described above for business purposes in the section of our Privacy Policy entitled [Disclosure of Your Information](/privacy#disclosure-of-info).
 
-_**Business/commercial purposes for use**_. We describe the business and commercial purposes for which we use the Personal Information described above in the section of our Privacy Statement entitled “Use of Your Information”.
+_**Business/commercial purposes for use**_. We describe the business and commercial purposes for which we use the Personal Information described above in the section of our Privacy Policy entitled [Use of Your Information](/privacy#use-of-information).
 
 ## California Shine the Light Law
 

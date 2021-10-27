@@ -43,9 +43,9 @@ A. The Family Education Rights and Privacy Act (FERPA), is a federal law that pr
 
 We expect only teachers, not students, to use **teacher.desmos.com** for creating and running activities and using curricula in connection with **Desmos Classroom**.
 
-Our **Desmos Tools** are intended for individual usage. We don’t know when any of these tools is used at the direction of a teacher as part of an assignment, so we can’t be helpful with FERPA compliance. For this reason, we teachers and schools should only use **Desmos Classroom** (teacher.desmos.com and student.desmos.com) for collecting academic assignments.
+Our **Desmos Tools** are intended for individual usage. We don’t know when any of these tools is used at the direction of a teacher as part of an assignment, so we can’t be helpful with FERPA compliance. For this reason, teachers and schools should only use **Desmos Classroom** (teacher.desmos.com and student.desmos.com) for collecting academic assignments.
 
-We assume that all work in **student.desmos.com** has been assigned by a teacher or school for academic purposes. We don’t own any personal information collected through **student.desmos.com** – that is controlled by the teacher and school. Parents and students have rights under FERPA to access that work. Note that only the relevant teacher, school or the student can ask Desmos to delete work done on student.desmos.com. Note further that if an account on teacher.desmos.com is deleted, student work associated with any activities that the teacher ran will be deleted as a result, even for students who still have an account. Please see our [Student Data Privacy Statement](/studentdata) for more details.
+We assume that all work in **student.desmos.com** has been assigned by a teacher or school for academic purposes. We don’t own any personal information collected through **student.desmos.com** – that is controlled by the teacher and school. Parents and students have rights under FERPA to access that work. Note that only the relevant teacher, school, parent or the student can ask Desmos to delete work done on student.desmos.com. Note further that if an account on teacher.desmos.com is deleted, student work associated with any activities that the teacher ran will be deleted as a result, even for students who still have an account. Please see our [Student Data Privacy Statement](/studentdata) for more details.
 
 ## Q. Does Desmos comply with GDPR?
 
@@ -66,17 +66,15 @@ In accordance with [Article 27 of the GDPR](https://gdpr.eu/article-27-represent
 
 Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Desmos, Inc. has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
 
--by using EDPO’s online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
-
--by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+- by using EDPO’s online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
+- by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
 
 **UK General Data Protection Regulation (GDPR) - UK Representative**
 
 Pursuant to Article 27 of the UK GDPR, Desmos, Inc. has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
 
--by using EDPO’s online request form: [https://edpo.com/uk-gdpr-data-request/](https://edpo.com/uk-gdpr-data-request/)
-
--by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+- by using EDPO’s online request form: [https://edpo.com/uk-gdpr-data-request/](https://edpo.com/uk-gdpr-data-request/)
+- by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
 
 Additionally, as required by GDPR, Desmos has SCCs with our subcontractors who process Personal Data.
 
