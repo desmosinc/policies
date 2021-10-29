@@ -6,7 +6,7 @@ We expect our different services will be used in very different ways, so our pol
 
 “**Desmos Tools**”: which include our tools on www.desmos.com, including the [Graphing Calculator](/calculator), [Scientific Calculator](/scientific), [Four Function Calculator](/fourfunction), [Geometry Tool](/geometry), and future standalone tools to come. This term also includes any apps associated with those tools, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads.
 
-“**Desmos Classroom**”: which includes all our services (i) on [https://teacher.desmos.com](https://teacher.desmos.com) (“teacher.desmos.com”) including those for creating and assigning activities, and (ii) on [https://student.desmos.com](https://student.desmos.com) (“student.desmos.com”), specifically, those for use of activities as directed by an instructor. This also includes our Math Curriculum.
+“**Desmos Classroom**”: which includes all our services (i) on [https://teacher.desmos.com](https://teacher.desmos.com) (“teacher.desmos.com”) including those for creating and assigning activities (“Activities”) and the Desmos provided curriculum available at [www.desmos.com/curriculum](https://desmos.com/curriculum) (the “Desmos Math Curriculum”), and (ii) on [https://student.desmos.com](https://student.desmos.com) (“student.desmos.com”), specifically, those for the use of activities or curricula as directed by an instructor on teacher.desmos.com.
 
 ## Q. How is your service free? Are you making money from advertising?
 
