@@ -39,7 +39,7 @@ Your authorized agent may make a request on your behalf upon our verification of
 
 The categories of Personal Information we collect are described below by reference to the statutory categories of Personal Information specified in the CCPA (California Civil Code section 1798.140):
 
-- Identifiers, such as name, email address username, password, IP address, and other online identifiers.
+- Identifiers, such as name, email address, username, password, IP address, and other online identifiers.
 - Sensory information, such as call and video recordings and profile photos.
 - California customer records (as defined in California Civil Code § 1798.80), such as contact details and communications we collect through our support channels, marketing webpages, social media, at our events, and connected with our other marketing activities.
 - Commercial information, such as billing and transaction information and purchase history.
@@ -50,7 +50,7 @@ The categories of Personal Information we collect are described below by referen
 
 _**Sources**_. Internet/network activity information, IP address, and other online identifiers are collected automatically through your use of our online services. We collect education information from schools that use our services. Otherwise, we collect the information above from you.
 
-_**Disclosures**_ to third parties for business purposes. We describe the categories of third parties to whom we disclose Personal Information described above for business purposes in the section of our Privacy Policy entitled [Disclosure of Your Information](/privacy#disclosure-of-info).
+_**Disclosures to third parties for business purposes**_. We describe the categories of third parties to whom we disclose Personal Information described above for business purposes in the section of our Privacy Policy entitled [Disclosure of Your Information](/privacy#disclosure-of-info).
 
 _**Business/commercial purposes for use**_. We describe the business and commercial purposes for which we use the Personal Information described above in the section of our Privacy Policy entitled [Use of Your Information](/privacy#use-of-information).
 
@@ -60,7 +60,7 @@ Under California’s Shine the Light law, you may also ask companies with whom y
 
 ## CalOPPA and “Do Not Track”
 
-In addition, although we do our best to honor the privacy preferences of our visitors, our Services does not respond to Do Not Track signals which can be sent from certain browsers at this time.
+In addition, although we do our best to honor the privacy preferences of our visitors, our Services do not respond to Do Not Track signals which can be sent from certain browsers at this time.
 
 <!-- TODO Update with data of release -->
 

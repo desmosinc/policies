@@ -71,7 +71,7 @@ These cookies are used to make advertising messages more relevant to you. They p
 
 ## How will you update this Cookie Policy?
 
-This Cookie Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy. You can see the history of the changes to this Privacy Policy
+This Cookie Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy. You can see the history of the changes to this Privacy Policy in a public github repository at [https://github.com/desmosinc/policies](https://github.com/desmosinc/policies).
 
 <!-- TODO Update with data of release -->
 

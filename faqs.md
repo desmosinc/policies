@@ -6,7 +6,7 @@ We expect our different services will be used in very different ways, so our pol
 
 “**Desmos Tools**”: which include our tools on www.desmos.com, including the [Graphing Calculator](/calculator), [Scientific Calculator](/scientific), [Four Function Calculator](/fourfunction), [Geometry Tool](/geometry), and future standalone tools to come. This term also includes any apps associated with those tools, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads.
 
-“**Desmos Classroom**”: which includes all our services (i) on [teacher.desmos.com](https://teacher.desmos.com) (“teacher.desmos.com”) including those for creating and assigning activities, and (ii) on [student.desmos.com](https://student.desmos.com) (“student.desmos.com”), specifically, those for use of activities as directed by an instructor. This also includes our Math Curriculum.
+“**Desmos Classroom**”: which includes all our services (i) on [https://www.teacher.desmos.com](https://www.teacher.desmos.com) (“teacher.desmos.com”) including those for creating and assigning activities, and (ii) on [https://www.student.desmos.com](https://www.student.desmos.com) (“student.desmos.com”), specifically, those for use of activities as directed by an instructor. This also includes our Math Curriculum.
 
 ## Q. How is your service free? Are you making money from advertising?
 
@@ -20,7 +20,7 @@ These promises will live on, even in the case that we’re purchased or go bankr
 
 ## Q. Can I use the Desmos Tools and Activities on my digital learning platform, if I’m providing a class as part of a commercial platform or if I am creating tuition-based asynchronous classes?
 
-Demsos often allows individual instructors to use Desmos Tools and Activities in connection with (i) instruction via a commercial platform and (ii) tuition-based asynchronous classes, but requires advance written (including via email) permission from Desmos for each such use. In addition to seeking permission, the instructor should provide attribution to Desmos within the course materials.
+Desmos often allows individual instructors to use Desmos Tools and Activities in connection with (i) instruction via a commercial platform and (ii) tuition-based asynchronous classes, but requires advance written (including via email) permission from Desmos for each such use. In addition to seeking permission, the instructor should provide attribution to Desmos within the course materials.
 
 If a commercial instructional entity, company, or provider is interested in permission to use Desmos across their entire digital platform, or across curricula taught by the entity’s entire teaching faculty of said curricula, then a formal licensing agreement with Desmos is required.
 
@@ -84,15 +84,15 @@ A. Yes. We offer data processing addendums (“**DPAs**”) with attached Standa
 
 Our DPA supplements our Terms of Service and Privacy Policy, and contains contractual terms that address the GDPR's requirements for data processing agreements between controllers and processors, including with respect to personal data transfer, and that reflect our data privacy and security commitments.
 
-You can review our standard, template DPA with attached SCCs [here](/privacy-pdfs/Desmos_DPA_and_SCC_2021-06-17_v3.pdf). If you represent a school and would like to enter into that DPA (and attached SCCs) with us, please send an email to [privacy-gdpr@desmos.com](mailto:privacy-gdpr@desmos.com), with the following information about the school: (i) name, (ii) address, (iii) telephone number, (iv) signatory name, (v) signatory title, and (vi) signatory email address, and (vii) teacher.desmos.com account usernames. We will then send the school’s signatory a copy of the DPA for electronic signatures via Docusign or equivalent.
+You can review our standard, template DPA with attached SCCs [here](https://www.desmos.com/privacy-pdfs/Desmos_DPA_and_SCC_2021-06-17_v3.pdf). If you represent a school and would like to enter into that DPA (and attached SCCs) with us, please send an email to [privacy-gdpr@desmos.com](mailto:privacy-gdpr@desmos.com), with the following information about the school: (i) name, (ii) address, (iii) telephone number, (iv) signatory name, (v) signatory title, and (vi) signatory email address, and (vii) teacher.desmos.com account usernames. We will then send the school’s signatory a copy of the DPA for electronic signatures via DocuSign or equivalent.
 
 ## Q. Does Desmos have a Student Data Privacy Agreement with my school in the United States?
 
-A. We have data privacy agreements with many school districts across several states and are happy to work with your school to get an agreement in place. Please email us at [privacy@desmos.com](privacy@desmos.com) for more information.
+A. We have data privacy agreements with many school districts across several states and are happy to work with your school to get an agreement in place. Please email us at [privacy@desmos.com](mailto:privacy@desmos.com) for more information.
 
 ## Q. Is Desmos compliant with NY State Education Law 2-D?
 
-A. Yes. Education Law 2-D is a New York state law designed to protect the personally identifiable information of students. We are happy to work with New York school districts to put Education Law 2-D compliance documents, such as data sharing agreements, into place. We reserve the right to request modifications to such compliance documents to clarify or reflect our internal compliance processes for certain requirements of Education Law 2-D, such as the return and/or the deletion of student data. Please email us at [privacy@desmos.com](privacy@desmos.com) for more information.
+A. Yes. Education Law 2-D is a New York state law designed to protect the personally identifiable information of students. We are happy to work with New York school districts to put Education Law 2-D compliance documents, such as data sharing agreements, into place. We reserve the right to request modifications to such compliance documents to clarify or reflect our internal compliance processes for certain requirements of Education Law 2-D, such as the return and/or the deletion of student data. Please email us at [privacy@desmos.com](mailto:privacy@desmos.com) for more information.
 
 ## Q. Is Desmos compliant with the California Consumer Privacy Act (CCPA)?
 
