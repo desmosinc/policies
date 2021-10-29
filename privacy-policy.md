@@ -2,7 +2,7 @@
 
 <!-- TODO Add summary-highlight class to bolded summary text. -->
 
-<div class="summary-highlight">**Summary**: We are committed to protecting your privacy as described in this Privacy Policy.<div>
+<div class="summary-highlight">**Summary**: We are committed to protecting your privacy as described in this Privacy Policy.</div>
 
 Desmos, Inc. (“**we**” or “**Desmos**”) is committed to protecting your privacy. This Privacy Policy describes our collection and use of personal information collected from visitors to our website and our mobile application(s) (collectively, our “**Service**”), including the Services offered at desmos.com, our mobile apps and any other website, app, or online service which links to this Privacy Policy. "**You**" or “**your**” means a visitor or a user (whether logged in or not) of our Service.
 
