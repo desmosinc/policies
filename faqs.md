@@ -116,9 +116,7 @@ A. We make it easy to see any changes we make to our policies. We host our Terms
 
 As a result, you can see both the current version of each document and a complete history of changes. In addition, we will prominently post a notice on our websites if we make any major changes to any of these policy documents. We will not necessarily notify you for small changes (e.g. modifications to the list of Third Party Services). However, you can subscribe to notifications from the github repository if you’re interested in being updated on every change. ([Instructions](https://help.github.com/articles/watching-repositories/).)
 
-<!-- TODO Update with data of release -->
-
-These FAQs were last updated [date of update]
+These FAQs were last updated on November 1, 2021.
 
 ## Q. What if I have other questions?
 

@@ -213,6 +213,4 @@ Pursuant to Article 27 of the UK GDPR, Desmos, Inc. has appointed EDPO UK Ltd as
 a. _Updates_.
 This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy. You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
 
-<!-- TODO Update with data of release -->
-
-b. _Last Modified_. This Privacy Policy was last modified [date of update].
+b. _Last Modified_. This Privacy Policy was last modified on November 1, 2021.

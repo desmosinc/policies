@@ -62,6 +62,4 @@ Under California’s Shine the Light law, you may also ask companies with whom y
 
 In addition, although we do our best to honor the privacy preferences of our visitors, our Services do not respond to Do Not Track signals which can be sent from certain browsers at this time.
 
-<!-- TODO Update with data of release -->
-
-This document was last modified on [date of update].
+This document was last modified on November 1, 2021.

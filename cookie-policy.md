@@ -1,8 +1,6 @@
 # Cookie Policy
 
-<!-- TODO Update with data of release -->
-
-Last updated [date of update]
+Last updated on November 1, 2021.
 
 This Cookie Policy explains how Desmos, Inc. (“Desmos", “we", “us", and “our") uses cookies and similar technologies to recognize you when you visit our websites at desmos.com (“Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
@@ -73,9 +71,7 @@ These cookies are used to make advertising messages more relevant to you. They p
 
 This Cookie Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy. You can see the history of the changes to this Privacy Policy in a public github repository at [https://github.com/desmosinc/policies](https://github.com/desmosinc/policies).
 
-<!-- TODO Update with data of release -->
-
-This Cookie Policy was last modified [date of update].
+This Cookie Policy was last modified on November 1, 2021.
 
 ## Where can I get further information?
 

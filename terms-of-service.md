@@ -186,6 +186,4 @@ The failure of Desmos to exercise or enforce any right or provision of these Ter
 
 a. _Modifications_. These Terms may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Terms. You can see the history of the changes to our Terms [here](https://github.com/desmosinc/policies). If you object to any such changes, your sole recourse will be to cease using the Desmos Services. Continued use of the Desmos Services following notice of any such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Desmos reserves the right to modify or discontinue the Desmos Services with or without notice to you.
 
-<!-- TODO Update with data of release -->
-
-b. _Date Last Modified_. These Terms were last modified [date of update].
+b. _Date Last Modified_. These Terms were last modified on November 1, 2021.
