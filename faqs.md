@@ -106,7 +106,7 @@ A. Yes, but we work incredibly hard to only collect what is necessary to maintai
 
 A. We work hard to protect your data while it’s in transit and once it’s stored. All of our sites, apps, and services use Secure Socket Layer Encryption (SSL) to transfer your data. We only share and store your data with trusted services that are also committed to security. We maintain a list of those services here:
 
-[https://github.com/desmosinc/policies/blob/master/third-party-services.md](https://github.com/desmosinc/policies/blob/master/third-party-services.md)
+[https://github.com/desmosinc/policies/blob/main/third-party-services.md](https://github.com/desmosinc/policies/blob/main/third-party-services.md)
 
 We try our hardest to keep this list up to date, but we may add or subtract service providers at any time. Please contact us at [privacy@desmos.com](mailto:privacy@desmos.com) to confirm our most up to date list of service providers at any given time.
 
@@ -116,7 +116,7 @@ A. We make it easy to see any changes we make to our policies. We host our Terms
 
 As a result, you can see both the current version of each document and a complete history of changes. In addition, we will prominently post a notice on our websites if we make any major changes to any of these policy documents. We will not necessarily notify you for small changes (e.g. modifications to the list of Third Party Services). However, you can subscribe to notifications from the github repository if you’re interested in being updated on every change. ([Instructions](https://help.github.com/articles/watching-repositories/).)
 
-These FAQs were last updated on November 1, 2021.
+These FAQs were last updated on May 24, 2023.
 
 ## Q. What if I have other questions?
 
