@@ -9,7 +9,7 @@ Here is the list of third party services that we might share your information wi
 - **[Google Analytics](https://www.google.com/analytics/)**: Our [Help Center](https://help.desmos.com/) pages are hosted by [Zendesk](https://www.zendesk.com/), which uses Google Analytics for monitoring aggregate usage data.
 - **[Google Sign-In](https://developers.google.com/identity/sign-in/web/sign-in)**: We use Google Sign-In as an option for authentication to our websites and apps.
 - **[Heroku](https://heroku.com/)**: Heroku hosts some of our databases.
-- **[Looker](https://looker.com/)**: We use looker for granular usage statistics and "Business Intellegence."
+- **[Looker](https://looker.com/)**: We use looker for granular usage statistics and “Business Intellegence.”
 - **[MongoDB](https://mongodb.com/)**: MongoDB hosts some of our databases.
 - **[Zendesk](https://zendesk.com)**: Zendesk hosts support.desmos.com and powers some of our support messaging and documentation.
 

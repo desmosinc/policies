@@ -1,14 +1,13 @@
 # California Privacy Rights Statement
 
-This California Privacy Rights Statement (this “**Statement**”) explains how Desmos, Inc. ("**Desmos**," "**we**," "**us**," or "**our**") collect, use, and share Personal Information of California residents in our capacity as a “business” under the California Consumer Privacy Act of 2018 (CCPA). This Statement also explains California residents’ rights under the CCPA and California Civil Code section 1798.83 (the "**Shine the Light law**”).
+This California Privacy Rights Statement (this **“Statement”**) explains how Desmos Studio PBC (**“Desmos”**, **“we”**, **“us”**, and **“our”**) collect, use, and share Personal Information of California residents in our capacity as a “business” under the California Consumer Privacy Act of 2018 (CCPA). This Statement also explains California residents’ rights under the CCPA, CPRA and California Civil Code section 1798.83 (the **“Shine the Light law”**).
 
 ## Scope
 
-For purposes of this Statement, unless a different definition is noted, "Personal Information" has the definition given in the CCPA. However, this Statement does not apply to:
+For purposes of this Statement, unless a different definition is noted, “Personal Information” has the definition given in the CCPA. However, this Statement does not apply to:
 
-- Information exempted from the scope of the CCPA;
-- Personal Information we collect from individuals acting in their capacities as representatives of organizations solely in the context of conducting due diligence regarding, or providing or receiving a product or service to or from, such organizations; or
-- Personal Information we collect, use, and share on behalf of our customers (including Schools) as a "service provider" under the CCPA for purposes of providing our services to them.
+- Information exempted from the scope of the CCPA and CPRA; or
+- Personal Information we collect, use, and share on behalf of our customers (including Schools) as a “service provider” under the CCPA for purposes of providing our services to them.
 
 ## Your California Privacy Rights under the CCPA
 
@@ -62,4 +61,4 @@ Under California’s Shine the Light law, you may also ask companies with whom y
 
 In addition, although we do our best to honor the privacy preferences of our visitors, our Services do not respond to Do Not Track signals which can be sent from certain browsers at this time.
 
-This document was last modified on November 1, 2021.
+This document was last modified on August 22, 2023.
