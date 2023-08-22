@@ -1,8 +1,8 @@
 # Cookie Policy
 
-Last updated on November 1, 2021.
+Last updated on August 22, 2023.
 
-This Cookie Policy explains how Desmos, Inc. (“Desmos", “we", “us", and “our") uses cookies and similar technologies to recognize you when you visit our websites at desmos.com (“Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Policy explains how Desmos Studio PBC (**“Desmos”**, **“we”**, **“us”**, and **“our”**) uses cookies and similar technologies to recognize you when you visit our websites at desmos.com (**“Websites”**). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
 In some cases we may use cookies to collect personal information, or information that becomes personal information if we combine it with other information.
 
@@ -32,8 +32,7 @@ These cookies are strictly necessary to provide you with services available thro
 
 | _**Cookie**_             | _**Duration**_                          | _**Description**_                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| sid.prod2                | 30 days                                 | Desmos uses this cookie to remember your identity when you are logged in so that you can make requests; e.g., to save a resource or to load a resource that you have saved.                                                                                                                                                                                                                 |
-| crumb                    | Session (expires when you quit browser) | Issued by [Squarespace](https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses) on learn.desmos.com to prevent cross-site request forgery (CSRF).                                                                                                                                                                                                      |
+| sid.prod2                | Session (expires when you quit browser) | Desmos uses this cookie to remember your identity when you are logged in so that you can make requests; e.g., to save a resource or to load a resource that you have saved.                                                                                                                                                                                                                 |
 | \_\_cf_bm                | 30 minutes                              | Visitors to help.desmos.com receive this cookie via [Zendesk](https://www.zendesk.com/company/policies-procedures/cookie-policy/) that is set by Cloudflare and is necessary to support Cloudflare Bot Management which helps manage incoming traffic that matches criteria associated with bots.                                                                                           |
 | \_\_cfruid               | Session (expires when you quit browser) | Visitors to help.desmos.com receive this cookie via [Zendesk](https://www.zendesk.com/company/policies-procedures/cookie-policy/) that is set by Cloudflare and used in cases were multiple users are hidden behind the same client IP address. Each user will have a unique cookie to help prevent a case of rate limiting all users if one particular user hits the rate limit threshold. |
 | \_zendesk_session        | 8 hours                                 | Visitors to help.desmos.com receive this cookie from [Zendesk](https://www.zendesk.com/company/policies-procedures/cookie-policy/) that is used to hold session information.                                                                                                                                                                                                                |
@@ -49,16 +48,11 @@ These cookies are used to enhance the performance and functionality of our Websi
 
 These cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or how effective our marketing campaigns are, or to help us customize our Websites for you.
 
-| _**Cookie**_ | _**Duration**_ | _**Description**_                                                                                                                                                                                                                           |
-| ------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ss_cpvisit   | 2 years        | Issued by [Squarespace](https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses) to identify unique visitors and track a visitor’s sessions on learn.desmos.com                                         |
-| ss_cvisit    | 30 minutes     | Issued by [Squarespace](https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses) to identify unique visitors and track a visitor’s sessions on a learn.desmos.com                                       |
-| ss_cid       | 2 years        | Issued by [Squarespace](https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses) to identify unique visitors and track a visitor’s sessions on learn.desmos.com                                         |
-| ss_cvr       | 2 years        | Issued by [Squarespace](https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses) to identify unique visitors and track a visitor’s sessions on learn.desmos.com                                         |
-| ss_cvt       | 30 minutes     | Issued by [Squarespace](https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses) to identify unique visitors and track a visitor’s sessions on learn.desmos.com                                         |
-| \_ga         | 2 years        | First party cookie used by [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to distinguish users on both (i) learn.desmos.com, (ii) help.desmos.com, and (iii) pontoon.desmos.com  |
-| \_gat        | 1 minute       | First party cookie used by [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) and used to throttle the request rate on both (i) learn.desmos.com and (ii) help.desmos.com            |
-| \_gid        | 24 hours       | First party cookie used by [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to distinguish users on both (i) learn.desmos.com, (ii) help.desmos.com, and (iii) pontoon.desmos.com. |
+| _**Cookie**_ | _**Duration**_ | _**Description**_                                                                                                                                                                             |
+| ------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \_ga         | 2 years        | First party cookie used by [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to distinguish users on help.desmos.com                  |
+| \_gat        | 1 minute       | First party cookie used by [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) and used to throttle the request rate on help.desmos.com |
+| \_gid        | 24 hours       | First party cookie used by [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to distinguish users on help.desmos.com                  |
 
 ## Advertising cookies:
 
@@ -70,14 +64,14 @@ These cookies are used to make advertising messages more relevant to you. They p
 
 This Cookie Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy. You can see the history of the changes to this Privacy Policy in a public github repository at [https://github.com/desmosinc/policies](https://github.com/desmosinc/policies).
 
-This Cookie Policy was last modified on November 1, 2021.
+This Cookie Policy was last modified on August 22, 2023.
 
 ## Where can I get further information?
 
 Please feel free to contact us with any questions or comments about this Cookie Policy,as follows:
 
 <pre>
-Desmos, Inc.
+Desmos Studio PBC
 ATTN: Privacy Agent
 9450 SW Gemini Dr
 PMB 49136
