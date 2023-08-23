@@ -41,10 +41,10 @@ Images of our tools are governed by the Creative Commons “Attribution-ShareAli
 
 A few friendly reminders:
 
-* Please do not create images that infringe the rights of others.
-* Please do not imply official partnership or endorsement without our written consent.
-* Please do not frame or mirror the tools without our written consent.
-* Please follow our [branding guidelines](https://company-236187.frontify.com/d/RPz5Vbggowib). 
+- Please do not create images that infringe the rights of others.
+- Please do not imply official partnership or endorsement without our written consent.
+- Please do not frame or mirror the tools without our written consent.
+- Please follow our [branding guidelines](https://company-236187.frontify.com/d/RPz5Vbggowib).
 
 If you ever want to integrate more deeply with Desmos, including using our APIs, please reach out to us at [partnerships@desmos.com](mailto:partnerships@desmos.com).
 
