@@ -26,7 +26,7 @@ A. **“Desmos Tools”** covers the math tools built and maintained by Desmos S
 
 <h2 id="free">Q. How is your service free? Are you making money from advertising?</h2>
 
-A. No! Desmos’s business model is built around paid partnerships with publishers, assessment companies, educational institutions and other commercial partners (Interested? Check out [www.desmos.com/partners](/partners)). We will never profit from third-party advertising to students or selling personal data about students. Specifically, we pledge that:
+A. No! Desmos’s business model is built around paid partnerships with publishers, assessment companies, educational institutions and other commercial partners (Interested? Check out [www.desmos.com/partners](/partners)). Our [API Terms of Service](api-terms) applies to these partners. We will never profit from third-party advertising to students or selling personal data about students. Specifically, we pledge that:
 
 - We will never allow third-party advertising on our student-facing websites or apps.
 - We will never sell personal data collected on our student-facing websites or apps, or authorize third parties to collect data to be used for targeted advertising on Desmos’s products.
