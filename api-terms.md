@@ -92,7 +92,7 @@ b. <u>LIMITATION OF LIABILITY.</u>
 
 > i. **WHEN PERMITTED BY LAW, DESMOS STUDIO, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA; FINANCIAL LOSSES; OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.**
 
-> ii. **TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF DESMOS STUDIO, AND ITS SUPPLIERS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIM UNDER THESE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO AMOUNTS PAID TO DESMOS STUDIO IN THE PRIOR TWELVE (12) MONTHS (OR, IF WE CHOOSE, TO SUPPLYING YOU THE SOFTWARE SERVICE AGAIN).**
+> ii. **TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF DESMOS STUDIO, AND ITS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIM UNDER THESE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO AMOUNTS PAID TO DESMOS STUDIO IN THE PRIOR TWELVE (12) MONTHS (OR, IF WE CHOOSE, TO SUPPLYING YOU THE SOFTWARE SERVICE AGAIN).**
 
 > iii. **IN ALL CASES, DESMOS STUDIO, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY EXPENSE, LOSS, OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE**
 
@@ -102,7 +102,9 @@ a. <u>Indemnification by Desmos Studio.</u> We shall defend you against any clai
 
 b. <u>Indemnification by You.</u> Unless prohibited by applicable law, you will defend and indemnify Desmos Studio and its directors, officers, employees, and users, against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:
 
-> i. your misuse or your End User's misuse of the Software Service; > ii. your violation or your End User's violation of these Terms; or
+> i. your misuse or your End User's misuse of the Software Service;
+
+> ii. your violation or your End User's violation of these Terms; or
 
 > iii. any Content or Customer Data routed into or used with the Software Service by you, those acting on your behalf, or your End Users.
 
