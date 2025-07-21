@@ -31,7 +31,7 @@ By using our Services, you agree to be bound by these Terms and to the collectio
 Our Services include the following **“Desmos Tools”**:
 
 - web-based versions of the [Desmos Four Function Calculator](/fourfunction), [Desmos Scientific Calculator](/scientific), and [Desmos Matrix Calculator](/matrix), (the **“Simple Desmos Tools”**); and
-- web-based versions of the [Desmos Graphing Calculator](/calculator), [Desmos Geometry Tool](/geometry) future standalone tools to come, and any apps associated with the foregoing, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads (together, the **“Advanced Desmos Tools”**).
+- web-based versions of the [Desmos Graphing Calculator](/calculator), [Desmos Geometry Tool](/geometry), [3D Calculator](/3d), future standalone tools to come, and any apps associated with the foregoing, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads (together, the **“Advanced Desmos Tools”**).
 
 Certain of our Desmos Tools are designed to be managed by providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as **“Schools”**) for the benefit of students of such Schools (**“Students”**).
 
