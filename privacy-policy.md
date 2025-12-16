@@ -208,7 +208,9 @@ Additionally, as required by GDPR, Desmos has SCCs with our subcontractors who p
 
 <div class="summary-highlight"><strong>Summary</strong>: We will update this policy as necessary, and you can see the history of such changes <a href="https://github.com/desmosinc/policies">here</a>.</div>
 
-a. _Updates_.
-This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy. You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
 
-b. _Last Modified_. This Privacy Policy was last modified on August 15, 2025.
+a. **Updates**. This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below. You can track all changes by subscribing to notifications in the [Github repository](https://github.com/desmosinc/policies) which hosts these policies. There you can also see the history of changes. Your continued use of the Desmos Services following such an update constitutes your agreement to the revised Privacy Policy.
+
+b. **Student Data**. Notwithstanding the foregoing, Desmos will not make any material changes to this Privacy Policy that relate to the collection or use of [Student Data](/studentdata) without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
+
+c. **Date Last Modified**. These Terms were last modified on December 16, 2025.
