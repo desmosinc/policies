@@ -12,7 +12,7 @@ Student Data may include “educational records” as defined in the Family Educ
 
 Our collection and use of Student Data through Desmos Services are governed by federal and state law and by our contract with Schools, if one exists. This Desmos Student Data Privacy Statement explains how we use and share Student Data we may collect through Desmos Services. If you have questions about specific practices relating to Student Data provided to Desmos by a School, please direct your questions to your School.
 
-## The Desmos Pledge
+<h2 id="pledge">The Desmos Pledge</h2>
 
 The privacy of personally identifiable student information is very important to us. We are honored that our School customers choose Desmos as a trusted educational service provider and we strive to live by high data privacy and security standards. When we have access to the personal information of students, we commit to the following data privacy principles:
 
@@ -66,6 +66,8 @@ Our Advanced Desmos Tools are not directed to children under 13 unless and until
 
 ## Privacy Policy Changes with respect to Student Data
 
-Because we continue to develop the Desmos Services and take advantage of technologies to improve the Services we provide, our policies will change over time. We will note the effective date of the policy at the bottom of this page, and you should review this page periodically for any changes. If you do not choose to accept the changes, you may opt-out by deleting your account before the changes take effect.
+Because we continue to develop the Desmos Services and take advantage of technologies to improve the Services we provide, our policies will change over time. You can track all changes by subscribing to notifications in the [Github repository](https://github.com/desmosinc/policies/blob/main/third-party-services.md) which hosts these policies. There you can also see the history of changes. We will note the effective date of the policy at the bottom of this page. If you do not choose to accept the changes, you may opt-out by deleting your account before the changes take effect.
 
-This document was last modified on August 22, 2023.
+Notwithstanding the foregoing, Desmos will not make any material changes to our [Privacy Policy](/privacy) or [Terms of Service](/terms) that relate to the collection or use of Student Data without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
+
+This document was last modified on December 16, 2025.

@@ -138,9 +138,9 @@ We try our hardest to keep this list up to date, but we may add or subtract serv
 
 A. We make it easy to see any changes we make to our policies. We host our Terms of Service, Privacy Policy, Student Data Privacy Statement, Cookie Policy, and List of Third Party Services in a public github repository at [https://github.com/desmosinc/policies](https://github.com/desmosinc/policies). These FAQs are also hosted there.
 
-As a result, you can see both the current version of each document and a complete history of changes. In addition, we will prominently post a notice on our websites if we make any major changes to any of these policy documents. We will not necessarily notify you for small changes (e.g. modifications to the list of Third Party Services). However, you can subscribe to notifications from the github repository if you’re interested in being updated on every change. ([Instructions](https://help.github.com/articles/watching-repositories/).)
+As a result, you can see a complete history of changes and can subscribe to any changes ([Instructions](https://help.github.com/articles/watching-repositories/)). In addition, we will prominently post a notice on our websites if we make material (major) changes to any of these policy documents. Finally, if we make changes that materially impact our collection or use of Student Data, we will follow the steps in [The Desmos Pledge](/studentdata#pledge).
 
-These FAQs were last updated September 1, 2023.
+These FAQs were last updated December 16, 2025.
 
 <h2 id="other">Q. What if I have other questions?</h2>
 
