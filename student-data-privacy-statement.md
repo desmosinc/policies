@@ -66,7 +66,7 @@ Our Advanced Desmos Tools are not directed to children under 13 unless and until
 
 ## Privacy Policy Changes with respect to Student Data
 
-Because we continue to develop the Desmos Services and take advantage of technologies to improve the Services we provide, our policies will change over time. You can track all changes by subscribing to notifications in the [Github repository](https://github.com/desmosinc/policies/blob/main/third-party-services.md) which hosts these policies. There you can also see the history of changes. We will note the effective date of the policy at the bottom of this page. If you do not choose to accept the changes, you may opt-out by deleting your account before the changes take effect.
+Because we continue to develop the Desmos Services and take advantage of technologies to improve the Services we provide, our policies will change over time. You can track all changes by subscribing to notifications in the [Github repository](https://github.com/desmosinc/policies) which hosts these policies. There you can also see the history of changes. We will note the effective date of the policy at the bottom of this page. If you do not choose to accept the changes, you may opt-out by deleting your account before the changes take effect.
 
 Notwithstanding the foregoing, Desmos will not make any material changes to our [Privacy Policy](/privacy) or [Terms of Service](/terms) that relate to the collection or use of Student Data without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
