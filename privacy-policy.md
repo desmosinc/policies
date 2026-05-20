@@ -28,7 +28,7 @@ Click on the links below to jump to a subsection of this Privacy Policy.
 Our Services include the following **“Desmos Tools”**:
 
 - Web-based versions of the [Desmos Scientific Calculator](/scientific), [Desmos Four Function Calculator](/fourfunction), and [Desmos Matrix Calculator](/matrix) (the **“Simple Desmos Tools”**); and
-- The web-based [Desmos Graphing Calculator](/calculator), [Desmos Geometry Tool](/geometry), [3D Calculator](/3d), future standalone tools to come, and any apps associated with the foregoing, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads (together, the **“Advanced Desmos Tools”**).
+- The web-based [Desmos Graphing Calculator](/calculator), [Desmos Geometry Tool](/geometry), [3D Calculator](/3d), [Desmos Notebook](/notebook), future standalone tools to come, and any apps associated with the foregoing, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads (together, the **“Advanced Desmos Tools”**).
 
 **Note: Desmos Studio PBC does not own or operate the services previously collectively referred to as Desmos Classroom (now Amplify Classroom).** These services are owned and operated by Amplify Education, Inc. (**“Amplify”**), and are now available at [classroom.amplify.com](https://classroom.amplify.com) and [student.amplify.com](https://student.amplify.com). This FAQ does not govern use of Amplify Classroom. Please see Amplify’s documentation [here](https://amplify.com/acceptable-use-policy) for information about use of Amplify Classroom.
 
@@ -213,4 +213,4 @@ a. **Updates**. This Privacy Policy may be revised periodically and this will be
 
 b. **Student Data**. Notwithstanding the foregoing, Desmos will not make any material changes to this Privacy Policy that relate to the collection or use of [Student Data](/studentdata) without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
-c. **Date Last Modified**. These Terms were last modified on December 16, 2025.
+c. **Date Last Modified**. These Terms were last modified on May 21, 2026.
