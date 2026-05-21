@@ -6,7 +6,7 @@ This Student Data Privacy Statement also details our compliance with respect to 
 
 The Desmos Services may be used by third party providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as **“Schools”**). There may be different contractual terms or privacy policies in place with some of our School customers. Such other terms or policies may supersede this Student Data Privacy Statement for information collected or processed under those terms. If you have any questions as to which legal agreement or privacy policy controls the collection and use of your information, please contact your School or us.
 
-When a School uses the [Desmos Graphing Calculator](/graphing), [Desmos Geometry Tool](/geometry), [3D Calculator](/3d), future standalone tools to come, and any apps associated with the Desmos Services (together, the **“Advanced Desmos Tools”**) with students in the classroom (**“Students”**), we may have access to Student Data. **“Student Data”** is any information that is directly related to an identifiable current or former student that is maintained by a school, school district, or related entity or organization, or by us.
+When a School uses the [Desmos Graphing Calculator](/graphing), [Desmos Geometry Tool](/geometry), [3D Calculator](/3d), [Desmos Notebook](/notebook), future standalone tools to come, and any apps associated with the Desmos Services (together, the **“Advanced Desmos Tools”**) with students in the classroom (**“Students”**), we may have access to Student Data. **“Student Data”** is any information that is directly related to an identifiable current or former student that is maintained by a school, school district, or related entity or organization, or by us.
 
 Student Data may include “educational records” as defined in the Family Educational Rights and Privacy Act (**“FERPA”**). We consider Student Data to be highly confidential.
 
@@ -70,4 +70,4 @@ Because we continue to develop the Desmos Services and take advantage of technol
 
 Notwithstanding the foregoing, Desmos will not make any material changes to our [Privacy Policy](/privacy) or [Terms of Service](/terms) that relate to the collection or use of Student Data without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
-This document was last modified on December 16, 2025.
+This document was last modified on May 21, 2026.
