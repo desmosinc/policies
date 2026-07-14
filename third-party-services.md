@@ -7,6 +7,6 @@ We only share your data with trusted partners. We will never sell your data to t
 - **[Google Sign-In](https://support.google.com/a/answer/60224)**: We use Google Sign-In as an option for authentication to our websites and apps.
 - **[Sign in with Apple](https://support.apple.com/en-us/102609)**: We use Sign in with Apple as an option for authentication to our websites and apps.
 - **[New Relic](https://newrelic.com/)**: We use NewRelic for monitoring the health and performance of our systems.
-- **[Heroku](https://heroku.com/)**: Heroku hosts our databases.
+- **[Crunchy Data](https://crunchydata.com/)**: Heroku hosts our databases.
 - **[Zendesk](https://zendesk.com)**: Zendesk hosts [help.desmos.com](help.desmos.com) and powers some of our support messaging and documentation.
 
