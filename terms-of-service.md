@@ -2,6 +2,8 @@
 
 Thank you for your interest in using the online services operated by Desmos Studio PBC (**“Desmos”**, **“we”**, **“us”**, and **“our”**). These Terms of Service (**“Terms”**) govern your and/or your School’s (defined below) use of Desmos’ online and app services (collectively, the **“Services”**).
 
+Desmos also offers Desmos Professional, a separate paid subscription product. If you subscribe to Desmos Professional, you will also be subject to the [Desmos Professional Terms of Service](/professional-terms), which govern your use of Desmos Professional in addition to these Terms.
+
 Click on the links below to jump to that subsection of these Terms.
 
 1. [Our Services](#services)
@@ -171,4 +173,4 @@ a. **Modifications**. These Terms may be revised periodically and this will be r
 
 b. **Student Data**. Notwithstanding the foregoing, Desmos will not make any material changes to these Terms that relate to the collection or use of [Student Data](/studentdata) without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
-c. **Date Last Modified**. These Terms were last modified on May 21, 2026.
+c. **Date Last Modified**. These Terms were last modified on July 15, 2026.
