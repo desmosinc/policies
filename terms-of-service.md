@@ -2,6 +2,8 @@
 
 Thank you for your interest in using the online services operated by Desmos Studio PBC (**“Desmos”**, **“we”**, **“us”**, and **“our”**). These Terms of Service (**“Terms”**) govern your and/or your School’s (defined below) use of Desmos’ online and app services (collectively, the **“Services”**).
 
+Desmos also offers Desmos Professional, a separate paid subscription product. If you subscribe to Desmos Professional, you will also be subject to the [Desmos Professional Terms of Service](/professional-terms), which govern your use of Desmos Professional in addition to these Terms.
+
 Click on the links below to jump to that subsection of these Terms.
 
 1. [Our Services](#services)
@@ -34,8 +36,6 @@ Our Services include the following **“Desmos Tools”**:
 - web-based versions of the [Desmos Graphing Calculator](/calculator), [Desmos Geometry Tool](/geometry), [3D Calculator](/3d), [Desmos Notebook](/notebook), future standalone tools to come, and any apps associated with the foregoing, including (i) the Desmos Graphing application, available on Android and iOS; (ii) the Desmos Scientific Calculator application, available on Android and iOS; and (iii) the Desmos Test Mode application, available on iOS for iPads (together, the **“Advanced Desmos Tools”**).
 
 Certain of our Desmos Tools are designed to be managed by providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as **“Schools”**) for the benefit of students of such Schools (**“Students”**).
-
-**Note: Desmos Studio PBC does not own or operate the services previously collectively referred to as Desmos Classroom (now Amplify Classroom).** These services are owned and operated by Amplify Education, Inc. (**“Amplify”**), and are now available at [classroom.amplify.com](https://classroom.amplify.com) and [student.amplify.com](https://student.amplify.com). This FAQ does not govern use of Amplify Classroom. Please see Amplify’s documentation [here](https://amplify.com/acceptable-use-policy) for information about use of Amplify Classroom.
 
 <h2 id="eligibility">2. Eligibility and Authority</h2>
 
@@ -171,4 +171,4 @@ a. **Modifications**. These Terms may be revised periodically and this will be r
 
 b. **Student Data**. Notwithstanding the foregoing, Desmos will not make any material changes to these Terms that relate to the collection or use of [Student Data](/studentdata) without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
-c. **Date Last Modified**. These Terms were last modified on May 21, 2026.
+c. **Date Last Modified**. These Terms were last modified on July 15, 2026.
