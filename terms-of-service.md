@@ -37,8 +37,6 @@ Our Services include the following **“Desmos Tools”**:
 
 Certain of our Desmos Tools are designed to be managed by providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as **“Schools”**) for the benefit of students of such Schools (**“Students”**).
 
-**Note: Desmos Studio PBC does not own or operate the services previously collectively referred to as Desmos Classroom (now Amplify Classroom).** These services are owned and operated by Amplify Education, Inc. (**“Amplify”**), and are now available at [classroom.amplify.com](https://classroom.amplify.com) and [student.amplify.com](https://student.amplify.com). This FAQ does not govern use of Amplify Classroom. Please see Amplify’s documentation [here](https://amplify.com/acceptable-use-policy) for information about use of Amplify Classroom.
-
 <h2 id="eligibility">2. Eligibility and Authority</h2>
 
 If you are using Desmos Tools on behalf of a School and/or directing Students to use the Desmos Tools, then you represent and warrant that you are an authorized representative of the School and you agree to these Terms on the School’s behalf. In addition, in such circumstances, each reference to “you” in these Terms shall be deemed to refer to the School. Each such School hereby agrees it is responsible for the use of the Desmos Services by such School’s personnel and Students in accordance with these Terms and our Privacy Policy.
